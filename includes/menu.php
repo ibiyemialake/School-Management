@@ -70,13 +70,13 @@
                                 </div>
                             </div>
                         </li>
-                        <li><a href="all-course.php">All Courses</a></li>
+                        <li><a href="all-course.php">All Subjects</a></li>
                         <!--<li><a class='dropdown-button ed-sub-menu' href='#' data-activates='dropdown1'>Courses</a></li>-->
-                        <li><a href="seminars.php">Seminars</a>
-                        </li>
+                        <!-- <li><a href="seminars.php">Seminars</a>
+                        </li> -->
                         <li><a href="std-login.php">Student</a>
-                        <li class="about-menu">
-                            <a href="about.php" class="mm-arr">About us</a>
+                        <!-- <li class="about-menu">
+                            <a href="about.php" class="mm-arr">About us</a> -->
                             <!-- MEGA MENU 1 -->
                             <!-- <div class="mm-pos">
                                 <div class="about-mm m-menu">
@@ -116,7 +116,7 @@
                                     </div>
                                 </div>
                             </div> -->
-                        </li>
+                        <!-- </li> -->
                         </li>
                         <li><a href="contact-us.php">Contact us</a>
                         </li>

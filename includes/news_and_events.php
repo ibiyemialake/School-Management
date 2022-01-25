@@ -87,7 +87,7 @@ $i = 0;
                     </ul>
                 </div>
             </div>
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
                 <div class="bot-gal h-vid ho-event-mob-bot-sp">
                     <h4>Video Gallery</h4>
                     <iframe src="https://www.youtube.com/embed/2WqFtiR4-F4?autoplay=0&amp;showinfo=0&amp;controls=0"
@@ -98,7 +98,7 @@ $i = 0;
                     <p>Quisque vitae neque at tellus malesuada convallis. Phasellus in lectus vitae ex euismod interdum
                         non a lorem. Nulla bibendum. Curabitur mi odio, tempus quis risus cursus.</p>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-4">
                 <div class="bot-gal h-blog ho-event">
                     <h4>News & Event</h4>
