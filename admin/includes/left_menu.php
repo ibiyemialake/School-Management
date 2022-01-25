@@ -33,7 +33,7 @@
                  </li>
                  <!-- <li><a href="ad-setting.php"><i class="fa fa-cogs" aria-hidden="true"></i> Site Setting</a>
                  </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Courses</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -43,7 +43,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Classes</a>
                      <div class="collapsible-body left-sub-menu">
@@ -110,7 +110,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -120,7 +120,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students Fees</a>
                      <div class="collapsible-body left-sub-menu">
@@ -137,7 +137,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students Attendance</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -147,8 +147,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam List & time table</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -157,8 +157,8 @@
                              <li><a href="ad-exam-trash.php">Trash Exam</a></li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Question</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -168,7 +168,7 @@
                                     <li><a href="ad-exam-group-add.php">Create New Groups</a></li> -->
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Marks</a>
                      <div class="collapsible-body left-sub-menu">
@@ -236,7 +236,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Holidays</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -246,8 +246,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Notice</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -257,7 +257,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
 
 
 
