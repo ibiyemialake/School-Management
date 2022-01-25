@@ -33,7 +33,7 @@
                  </li>
                  <!-- <li><a href="ad-setting.php"><i class="fa fa-cogs" aria-hidden="true"></i> Site Setting</a>
                  </li> -->
-                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Courses</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -43,7 +43,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li> -->
+                 </li>
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Classes</a>
                      <div class="collapsible-body left-sub-menu">
@@ -110,7 +110,7 @@
                          </ul>
                      </div>
                  </li>
-                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
+                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -120,7 +120,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li> -->
+                 </li>
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students Fees</a>
                      <div class="collapsible-body left-sub-menu">
@@ -310,7 +310,7 @@
                                 </ul>
                             </div>
                         </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-cloud-download"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-cloud-download"
                              aria-hidden="true"></i> Import & Export</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -320,6 +320,6 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
              </ul>
          </div>
