@@ -55,7 +55,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Class Routine</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -65,7 +65,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Subjects</a>
                      <div class="collapsible-body left-sub-menu">
@@ -99,7 +99,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
                              aria-hidden="true"></i> Stuff </a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -109,7 +109,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students</a>
                      <div class="collapsible-body left-sub-menu">
