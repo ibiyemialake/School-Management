@@ -137,7 +137,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students Attendance</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -147,8 +147,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam List & time table</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -157,8 +157,8 @@
                              <li><a href="ad-exam-trash.php">Trash Exam</a></li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Question</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -168,7 +168,7 @@
                                     <li><a href="ad-exam-group-add.php">Create New Groups</a></li> -->
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Marks</a>
                      <div class="collapsible-body left-sub-menu">
@@ -236,7 +236,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Holidays</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -246,8 +246,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Notice</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -257,7 +257,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
 
 
 
@@ -275,7 +275,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-bullhorn"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-bullhorn"
                              aria-hidden="true"></i> Seminar</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -285,8 +285,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-graduation-cap"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-graduation-cap"
                              aria-hidden="true"></i> Job Vacants</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -296,7 +296,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
 
                  <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-commenting-o" aria-hidden="true"></i> Enquiry</a>
                             <div class="collapsible-body left-sub-menu">
@@ -310,7 +310,7 @@
                                 </ul>
                             </div>
                         </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-cloud-download"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-cloud-download"
                              aria-hidden="true"></i> Import & Export</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -320,6 +320,6 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
              </ul>
          </div>
