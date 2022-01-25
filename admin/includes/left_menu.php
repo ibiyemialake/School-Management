@@ -275,7 +275,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-bullhorn"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-bullhorn"
                              aria-hidden="true"></i> Seminar</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -285,8 +285,8 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-graduation-cap"
+                 </li> -->
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-graduation-cap"
                              aria-hidden="true"></i> Job Vacants</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -296,7 +296,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
 
                  <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-commenting-o" aria-hidden="true"></i> Enquiry</a>
                             <div class="collapsible-body left-sub-menu">
