@@ -7,6 +7,13 @@
 <!--== Course Details ==-->
 <?php //include("admin-all-courses.php") ;?>
 
+<!--==Teachers Details ==-->
+<?php include("admin-teacher-all.php") ;?>
+
+<!--== Course Details ==-->
+<?php //include("admin-all-courses.php") ;?>
+
+
 
 <div class="sb2-2-3">
     <div class="row">
