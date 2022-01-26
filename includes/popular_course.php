@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 // 1st collum popular course
  $topCourse  = "SELECT * FROM `popular_course_view` WHERE first_term_fee > 20000 LIMIT 3";
  $topPopulars = $crud->select($topCourse);
@@ -21,12 +21,12 @@
             <div class="row">
                 <div class="col-md-6">
                     <div>
-                        <!--POPULAR COURSES-->
+                        POPULAR COURSES
                         <?php while($topPopular = mysqli_fetch_assoc($topPopulars)){ ?>
                         <div class="home-top-cour">
-                            <!--POPULAR COURSES IMAGE-->
+                            POPULAR COURSES IMAGE
                             <div class="col-md-3"> <img src="admin/upload/<?php echo $topPopular['course_image']; ?>" alt=""> </div>
-                            <!--POPULAR COURSES: CONTENT-->
+                            POPULAR COURSES: CONTENT
                             <div class="col-md-9 home-top-cour-desc">
                                 <a href="all-course.php">
                                     <h3><?php echo $topPopular['course_name']; ?></h3>
@@ -58,12 +58,12 @@
                 </div>
                 <div class="col-md-6">
                     <div>
-                        <!--POPULAR COURSES-->
+                        POPULAR COURSES
                         <?php while($MiddlePopular = mysqli_fetch_assoc($MiddlePopulars)){ ?>
                         <div class="home-top-cour">
-                            <!--POPULAR COURSES IMAGE-->
+                            POPULAR COURSES IMAGE
                             <div class="col-md-3"> <img src="admin/upload/<?php echo $MiddlePopular['course_image']; ?>" alt=""> </div>
-                            <!--POPULAR COURSES: CONTENT-->
+                            POPULAR COURSES: CONTENT
                             <div class="col-md-9 home-top-cour-desc">
                                 <a href="course-details.html">
                                 <h3><?php echo $MiddlePopular['course_name']; ?></h3>
@@ -95,4 +95,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
