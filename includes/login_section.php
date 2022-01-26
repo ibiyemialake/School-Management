@@ -1,8 +1,8 @@
 <section>
         <!-- LOGIN SECTION -->
         <div id="modal1" class="modal fade" role="dialog">
-            <div class="log-in-pop" id="top_singin_section">
-                <div class="log-in-pop-left">
+            <!-- <div class="log-in-pop" id="top_singin_section"> -->
+                <!-- <div class="log-in-pop-left">
                     <h1>Hello...</h1>
                     <p>Don't have an account? Create your account. It's take less then a minutes</p>
                     <h4>Login with social media</h4>
@@ -14,7 +14,7 @@
                         <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="log-in-pop-right">
                     <a href="#" class="pop-close" data-dismiss="modal"><img src="assets/images/cancel.png" alt="" />
                     </a>
@@ -50,11 +50,11 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            <!-- </div> -->
         </div>
         <!-- REGISTER SECTION -->
         <div id="modal2" class="modal fade" role="dialog">
-            <div class="log-in-pop">
+            <!-- <div class="log-in-pop">
                 <div class="log-in-pop-left">
                     <h1>Hello...</h1>
                     <p>Don't have an account? Create your account. It's take less then a minutes</p>
@@ -67,7 +67,7 @@
                         <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="log-in-pop-right">
                     <a href="#" class="pop-close" data-dismiss="modal"><img src="assets/images/cancel.png" alt="" />
                     </a>
@@ -107,11 +107,11 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            <!-- </div> -->
         </div>
         <!-- FORGOT SECTION -->
         <div id="modal3" class="modal fade" role="dialog">
-            <div class="log-in-pop">
+            <!-- <div class="log-in-pop">
                 <div class="log-in-pop-left">
                     <h1>Hello... </h1>
                     <p>Don't have an account? Create your account. It's take less then a minutes</p>
@@ -124,7 +124,7 @@
                         <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="log-in-pop-right">
                     <a href="#" class="pop-close" data-dismiss="modal"><img src="assets/images/cancel.png" alt="" />
                     </a>
@@ -146,6 +146,6 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            <!-- </div> -->
         </div>
     </section>

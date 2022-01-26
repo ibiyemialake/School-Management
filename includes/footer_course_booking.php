@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
         <div class="full-bot-book">
             <div class="container">
                 <div class="row">
@@ -17,4 +17,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->

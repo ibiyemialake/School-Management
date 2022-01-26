@@ -11,44 +11,42 @@
 			  </div>-->
             <div class="row wed-foot-link">
                 <div class="col-md-4 foot-tc-mar-t-o">
-                    <h4>Top Courses</h4>
+                    <h4>Our Subjects</h4>
                     <ul>
-                        <li><a href="all-course.php">Accounting/Finance</a></li>
-                        <li><a href="#">civil engineering</a></li>
-                        <li><a href="#">Art/Design</a></li>
-                        <li><a href="#">Marine Engineering</a></li>
-                        <li><a href="#">Business Management</a></li>
-                        <li><a href="#">Journalism/Writing</a></li>
-                        <li><a href="#">Physical Education</a></li>
-                        <li><a href="#">Political Science</a></li>
+                        <li><a href="all-course.php">Mathematics</a></li>
+                        <li><a href="#">English Language</a></li>
+                        <li><a href="#">Biology</a></li>
+                        <li><a href="#">Economics</a></li>
+                        <li><a href="#">Integrated Science</a></li>
+                        <li><a href="#">Business Studies</a></li>
+                        <li><a href="#">Physics</a></li>
+                        <li><a href="#">Yoruba</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <h4>New Courses</h4>
                     <ul>
-                        <li><a href="#">Sciences</a></li>
-                        <li><a href="#">Statistics</a></li>
-                        <li><a href="#">Web Design/Development</a></li>
-                        <li><a href="#">SEO</a></li>
-                        <li><a href="#">Google Business</a></li>
+                        <li><a href="#">Civic Education</a></li>
+                        <li><a href="#">Wood Work</a></li>
+                        <li><a href="#">Internet Technology</a></li>
+                        <li><a href="#">Advanced Music</a></li>
+                        <li><a href="#">Home Economics</a></li>
                         <li><a href="#">Graphics Design</a></li>
-                        <li><a href="#">Networking Courses</a></li>
-                        <li><a href="#">Information technology</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <h4>HELP & SUPPORT</h4>
                     <ul>
-                        <li><a href="#">24x7 Live help</a>
+                        <li><a href="#">24/7 Help centre</a>
                         </li>
                         <li><a href="contact-us.php">Contact us now</a>
                         </li>
-                        <li><a href="#">Feedback</a>
+                        <!-- <li><a href="#">Feedback</a>
                         </li>
                         <li><a href="#">FAQs</a>
                         </li>
                         <li><a href="#">Safety Tips</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -59,7 +57,7 @@
                     <p>Phone: <a href="#!">+2348102528676</a></p>
                     <p>Email: <a href="#!">ahwaruislam@gmail.com</a></p>
                 </div>
-                <div class="col-md-4">
+                <!-- <div class="col-md-4">
                     <h4>DOWNLOAD OUR FREE MOBILE APPS</h4>
                     <ul>
                         <li><a href="#"><span class="sprite sprite-android"></span></a>
@@ -67,7 +65,7 @@
                         <li><a href="#"><span class="sprite sprite-ios"></span></a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="col-md-4">
                     <h4>SOCIAL MEDIA</h4>
                     <ul>
@@ -77,12 +75,12 @@
                         <li>
                             <a href="https://twitter.com"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a> 
-                        </li>
+                        </li> -->
 
-                        <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-                        </li>
+                        <!-- <li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        </li> -->
                         <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
                         </li>
                     </ul>

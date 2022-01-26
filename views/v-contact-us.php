@@ -18,18 +18,18 @@
                     <div class="ed-about-tit">
                         <div class="con-title">
                             <h2>Contact <span> Us</span></h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur laudantium eius numquam dolore deserunt minus deleniti in mollitia sequi accusantium?</p>
+                            <p>Welcome to our Contacts Page, Kindly reach out via any of the information provided below.</p>
                         </div>
                     </div>
                     <div class="pg-contact">
                         <div class="col-md-3 col-sm-6 col-xs-12 new-con new-con1">
-                            <h2>Islam <span>Education</span></h2>
-                            <p>We Provide Outsourced Software Development Services To Over 50 Clients In Worlds.</p>
+                            <h2>Secondary <span>Education</span></h2>
+                            <p>We Provide top quality educational services for students in all seconday classes.</p>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 new-con new-con1"> <img src="img/contact/1.html" alt="">
                             <h4>Address</h4>
-                            <p>Room No 401, Monjuri Bhaban, 8-DIT Avem
-                                <br>Landmark : Motijhel, Dhaka</p>
+                            <p>Plot 10, Eleyele-Jericho Express Way,
+                                <br>Benjamin Junction, Eleyele, Ibadan</p>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 new-con new-con3"> <img src="img/contact/2.html" alt="">
                             <h4>CONTACT INFO:</h4>
@@ -53,18 +53,21 @@
     </section>
     <!--SECTION END-->
 
-    <section id="map">
+    <!-- <section id="map">
         <div class="row contact-map">
-            <!-- IFRAME: GET YOUR LOCATION FROM GOOGLE MAP -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5163.49230868923!2d90.37780274561045!3d23.778013298910373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c74c29ceeafb%3A0xe72ef11d9cf0aeef!2sIslamic%20Development%20Bank-Bangladesh%20Islamic%20Solidarity%20and%20Educational%20Wakf%20(IsDB-BISEW)!5e0!3m2!1sen!2sbd!4v1629214973555!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+             IFRAME: GET YOUR LOCATION FROM GOOGLE MAP 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5163.49230868923!2d90.37780274561045!3d23.778013298910373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c74c29ceeafb%3A0xe72ef11d9cf0aeef!2sIslamic%20Development%20Bank-Bangladesh%20Islamic%20Solidarity%20and%20Educational%20Wakf%20(IsDB-BISEW)!5e0!3m2!1sen!2sbd!4v1629214973555!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
 
-            <div class="container">
+             <!-- <div class="container">
                 <div class="overlay-contact footer-part footer-part-form">
                     <div class="map-head">
                         <p>Send Us Now</p>
                         <h2>GetIn Touch</h2> <span class="footer-ser-re">Service Request Form</span> </div>
-                        <h3 class="text-center"><?php if(isset($result)){ echo "<span class='footer-ser-re'>$result</span>";} ?></h3>
-                    <!-- ENQUIRY FORM -->
+                        <h3 class="text-center">
+                             <?php if(isset($result)){ echo "<span class='footer-ser-re'>$result</span>";} ?> 
+                             
+                        </h3> -->
+                  <!--   ENQUIRY FORM 
                     <form id="contact_form" name="contact_form" action="" method="post"> 
                         <ul>
                             <li class="col-md-6 col-sm-6 col-xs-12 contact-input-spac">
@@ -92,5 +95,5 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
