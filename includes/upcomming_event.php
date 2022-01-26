@@ -52,20 +52,20 @@ $awards = $crud->select($awardSQL);
                             </div>
                             <div class="ho-ev-link">
                                 <a href="events.html">
-                                    <h4>College Expo 2022</h4>
+                                    <h4>Cultural Day 2022.</h4>
                                 </a>
-                                <p>An Exhibition like no other, Talents will be unravelled.</p>
-                                <span>9:15 am – 5:00 pm</span>
+                                <p>The richness of our culture would be on full display on this day</p>
+                                <span>9:00 am – 5:00 pm</span>
                             </div>
                         </li>
 
                     </ul>
                 </div>
             </div>
-            <div class="col-md-4">
-                <!--<div class="ho-ex-title">
+            <!-- <div class="col-md-4">
+                <div class="ho-ex-title">
 							<h4>Upcoming Event</h4>
-						</div>-->
+						</div>
                 <div class="ho-ev-latest ho-ev-latest-bg-2">
                     <div class="ho-lat-ev">
                         <h4>Job Vacancy</h4>
@@ -91,15 +91,15 @@ $awards = $crud->select($awardSQL);
                         <?php } ?>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-4">
                 <!-- <div class="ho-ex-title">
                     <h4>Upcoming Event</h4>
                 </div> -->
                 <div class="ho-ev-latest ho-ev-latest-bg-1">
                     <div class="ho-lat-ev">
-                        <h4>Alumni</h4>
-                        <p>Alunmi of this school are movers and shakers of the country.</p>
+                        <h4>Staff</h4>
+                        <p>Staff Meetings and Updates.</p>
 
                     </div>
                 </div>
