@@ -52,13 +52,13 @@ $classes = $crud->select($classSQL);
                             </div>
                         </div>
                         <div class="form-group">
-                            <label class="control-label col-sm-3">Email Id:</label>
+                            <label class="control-label col-sm-3">Email Address:</label>
                             <div class="col-sm-9">
                                 <input type="email" class="form-control" placeholder="Enter email" required name="req_admsn_email">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label class="control-label col-sm-3">Your City:</label>
+                            <label class="control-label col-sm-3">City:</label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" placeholder="Enter your city" name="req_admsn_city">
                             </div>

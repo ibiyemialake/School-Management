@@ -24,9 +24,7 @@
                                                     <span>Academics</span>
                                                 </a>
                                             </div>
-                                            <p>Education is the bedrock of any developed society.
-												Train your child through the path of education and success is certain.
-												Education is the best Legacy.</p>
+                                            <p>Learn about Anwarul system of teachings and what makes up the school as a whole. Education is the bedrock of any developed society.</p>
                                             <a href="about.php" class="mm-r-m-btn">Read more</a>
                                         </div>
                                         <div class="mm2-com mm1-com mm1-s1">
@@ -36,12 +34,10 @@
                                                     <span class="">Admission</span>
                                                 </a>
                                             </div>
-                                            <p>Education is the process of facilitating learning, or the acquisition of
-                                                knowledge, skills, values, morals, beliefs, and habits. Educational
-                                                methods include</p>
+                                            <p>Come Enroll your wards and children today in the new coming session this February, 2022. The best awaits you!</p>
                                             <a href="admission.php" class="mm-r-m-btn">Read more</a>
                                         </div>
-                                        <div class="mm2-com mm1-com mm1-s1">
+                                        <!-- <div class="mm2-com mm1-com mm1-s1">
                                             <div class="ed-course-in">
                                                 <a class="course-overlay" href="awards.php">
                                                     <img src="assets/images/h-cam1.jpg" alt="">
@@ -52,8 +48,8 @@
 												Train your child through the path of education and success is certain.
 												Education is the best Legacy.</p>
                                             <a href="awards.php" class="mm-r-m-btn">Read more</a>
-                                        </div>
-                                        <div class="mm2-com mm1-com mm1-s4">
+                                        </div> -->
+                                        <!-- <div class="mm2-com mm1-com mm1-s4">
                                             <div class="ed-course-in">
                                                 <a class="course-overlay" href="seminars.php">
                                                     <img src="assets/images/h-res1.jpg" alt="">
@@ -64,7 +60,7 @@
 												Train your child through the path of education and success is certain.
 												Education is the best Legacy.</p>
                                             <a href="seminars.php" class="mm-r-m-btn">Read more</a>
-                                        </div>
+                                        </div> -->
 
                                     </div>
                                 </div>
