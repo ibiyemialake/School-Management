@@ -164,11 +164,11 @@
                          <ul>
                              <li><a href="ad-exam-question-all.php">All Exams Question</a></li>
                              <li><a href="ad-exam-question-add.php">Add New Exam Question</a></li>
-                             <!-- <li><a href="ad-exam-group-all.php">All Groups</a></li>
+                              <li><a href="ad-exam-group-all.php">All Groups</a></li>
                                     <li><a href="ad-exam-group-add.php">Create New Groups</a></li> -->
-                         </ul>
+                         <!-- </ul>
                      </div>
-                 </li> -->
+                 </li>-->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Marks</a>
                      <div class="collapsible-body left-sub-menu">

@@ -11,17 +11,17 @@
  $tcrs = $crud->select($teachers);
  $tcr = mysqli_num_rows($tcrs);
 
- $seminars = "SELECT * FROM `seminar`";
- $smnrs = $crud->select($seminars);
- $smn = mysqli_num_rows($smnrs);
+//  $seminars = "SELECT * FROM `seminar`";
+//  $smnrs = $crud->select($seminars);
+//  $smn = mysqli_num_rows($smnrs);
 
- $stuffs = "SELECT * FROM `stuff`";
- $stfs = $crud->select($stuffs);
- $stf = mysqli_num_rows($stfs);
+//  $stuffs = "SELECT * FROM `stuff`";
+//  $stfs = $crud->select($stuffs);
+//  $stf = mysqli_num_rows($stfs);
 
- $jobs = "SELECT * FROM `job_anounce`";
- $jbs = $crud->select($jobs);
- $jb = mysqli_num_rows($jbs);
+//  $jobs = "SELECT * FROM `job_anounce`";
+//  $jbs = $crud->select($jobs);
+//  $jb = mysqli_num_rows($jbs);
 
  
  $events = "SELECT * FROM `add_event`";
@@ -40,13 +40,13 @@
     <h2>Admin Dashboard</h2>
     <div class="db-2">
         <ul>
-            <li>
+            <!-- <li>
                 <div class="dash-book dash-b-1">
                     <h5>All Courses</h5>
                     <h4><?php echo @$rows; ?></h4>
                     <a href="ad-all-course.php">View more</a>
                 </div>
-            </li>
+            </li> -->
             <li>
                 <div class="dash-book dash-b-2">
                     <h5>Admission</h5>
@@ -68,27 +68,27 @@
                     <a href="ad-teacher-all.php">View more</a>
                 </div>
             </li>
-            <li>
+            <!-- <li>
                 <div class="dash-book dash-b-4">
                     <h5>Staff</h5>
                     <h4><?php echo @$stf; ?></h4>
                     <a href="ad-stuff-all.php">View more</a>
                 </div>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
                 <div class="dash-book dash-b-3">
                     <h5>Seminars</h5>
                     <h4><?php echo @$smn; ?></h4>
                     <a href="ad-seminar-all.php">View more</a>
                 </div>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
                 <div class="dash-book dash-b-2">
                     <h5>Jobs</h5>
                     <h4><?php echo @$jb; ?></h4>
                     <a href="ad-job-all.php">View more</a>
                 </div>
-            </li>
+            </li> -->
             <li>
                 <div class="dash-book dash-b-1">
                     <h5>Events</h5>

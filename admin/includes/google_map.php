@@ -1,4 +1,4 @@
-<div class="sb2-2-3">
+<!-- <div class="sb2-2-3">
     <div class="row">
         <div class="col-md-12">
             <div class="box-inn-sp">
@@ -16,4 +16,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
