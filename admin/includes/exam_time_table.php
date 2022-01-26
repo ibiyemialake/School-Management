@@ -10,8 +10,8 @@
                     <thead>
                         <tr>
                             <th>Select</th>
-                            <th>Degree</th>
-                            <th>Exam Name</th>
+                            <!-- <th>DegreeC</th> -->
+                            <th>Subjects</th>
                             <th>Start Date</th>
                             <th>End Date</th>
                             <th>Timing</th>
@@ -24,7 +24,7 @@
                                 <input type="checkbox" class="filled-in" id="filled-in-box-1" checked="checked" />
                                 <label for="filled-in-box-1"></label>
                             </td>
-                            <td>MBA</td>
+                            <!-- <td>MBA</td> -->
                             <td><span class="list-enq-name">Civil engineering</span><span
                                     class="list-enq-city">Illunois, United States</span>
                             </td>

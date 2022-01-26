@@ -1,4 +1,4 @@
-<div class="col-md-6">
+<!-- <div class="col-md-6">
     <div class="box-inn-sp">
         <div class="inn-title">
             <h4>Social Media</h4>
@@ -118,4 +118,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->

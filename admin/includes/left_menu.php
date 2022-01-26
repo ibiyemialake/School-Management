@@ -55,7 +55,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Class Routine</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -65,7 +65,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Subjects</a>
                      <div class="collapsible-body left-sub-menu">
@@ -99,7 +99,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
                              aria-hidden="true"></i> Stuff </a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -109,7 +109,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-users"
                              aria-hidden="true"></i> Students</a>
                      <div class="collapsible-body left-sub-menu">
@@ -164,11 +164,11 @@
                          <ul>
                              <li><a href="ad-exam-question-all.php">All Exams Question</a></li>
                              <li><a href="ad-exam-question-add.php">Add New Exam Question</a></li>
-                             <!-- <li><a href="ad-exam-group-all.php">All Groups</a></li>
+                              <li><a href="ad-exam-group-all.php">All Groups</a></li>
                                     <li><a href="ad-exam-group-add.php">Create New Groups</a></li> -->
-                         </ul>
+                         <!-- </ul>
                      </div>
-                 </li> -->
+                 </li>-->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-pencil"
                              aria-hidden="true"></i> Exam Marks</a>
                      <div class="collapsible-body left-sub-menu">
