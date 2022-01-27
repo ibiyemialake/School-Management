@@ -20,7 +20,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="ed-com-t1-social">
+                <!-- <div class="ed-com-t1-social">
                     <ul>
                         <li><a href="https://www.facebook.com" target="_blank"><i class="fa fa-facebook"
                                     aria-hidden="true"></i></a>
@@ -31,7 +31,7 @@
                                     aria-hidden="true"></i></a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

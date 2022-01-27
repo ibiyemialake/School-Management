@@ -1,9 +1,6 @@
 <div class="udb-sec udb-prof">
     <h4><img src="assets/images/icon/db1.png" alt="" />My Profile</h4>
-    <p>It is a long established fact that a reader will be distracted by the readable content of a
-        page when looking at its layout. The point of using Lorem Ipsum is that it has a
-        more-or-less normal distribution of letters, as opposed
-        to using 'Content here, content here', making it look like readable English.</p>
+    <p>Welcome to your dashboard! Here, you have full access to your profile information, access necessary fees, exams as well as your result. You can as well Sign out or Logout of your profile when you are done. </p>
 </div>
 <?php
 $examAllSQL = "SELECT * FROM `exam_all`";

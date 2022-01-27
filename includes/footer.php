@@ -20,7 +20,7 @@
                         <li><a href="#">Integrated Science</a></li>
                         <li><a href="#">Business Studies</a></li>
                         <li><a href="#">Physics</a></li>
-                        <li><a href="#">Yoruba</a></li>
+                        <li><a href="#">Islamic Studies</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">

@@ -1,4 +1,4 @@
-
+<!-- 
 
 	<section>
         <div class="head-2">
@@ -18,7 +18,7 @@
         </div>
     </section>	
 	
-    <!--SECTION START-->
+    SECTION START
     <section>
         <div class="ed-res-bg">
 		<div class="container com-sp pad-bot-70 ed-res-bg">
@@ -143,7 +143,5 @@
         </div>
 		</div>
     </section>
-    <!--SECTION END-->
-
-
- 
+    SECTION END
+ -->
