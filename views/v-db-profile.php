@@ -11,10 +11,7 @@ $student = mysqli_fetch_assoc($Students);
 
 <div class="udb-sec udb-prof">
     <h4><img src="images/icon/db1.png" alt="" /> My Profile</h4>
-    <p>It is a long established fact that a reader will be distracted by the readable content of a
-        page when looking at its layout. The point of using Lorem Ipsum is that it has a
-        more-or-less normal distribution of letters, as opposed
-        to using 'Content here, content here', making it look like readable English.</p>
+    <p>Welcome to your dashboard! Here, you have full access to your profile information, access necessary fees, exams as well as your result. You can as well Sign out or Logout of your profile when you are done.</p>
     <div class="sdb-tabl-com sdb-pro-table">
         <table class="responsive-table bordered">
             <tbody>
@@ -29,7 +26,7 @@ $student = mysqli_fetch_assoc($Students);
                     <td><?php echo $student['student_id']; ?></td>
                 </tr>
                 <tr>
-                    <td>Eamil</td>
+                    <td>Email</td>
                     <td>:</td>
                     <td><?php echo $student['email']; ?></td>
                 </tr>
@@ -52,19 +49,17 @@ $student = mysqli_fetch_assoc($Students);
                     <td>Academic Year</td>
                     <td>:</td>
                     <td><?php //echo $student['AcademicYear']; ?></td>
-                </tr>
+                </tr>-->
                 <tr>
                     <td>Date of birth</td>
                     <td>:</td>
-                    <td><?php //echo $formating->BD_Date_Style($student['DOB']) ; ?></td>
-                </tr> -->
+                    <td><?php echo $formating->BD_Date_Style($student['DOB']) ; ?></td>
+                </tr> 
 
             </tbody>
         </table>
         <div class="sdb-bot-edit">
-            <p>It is a long established fact that a reader will be distracted by the readable
-                content of a page when looking at its layout. The point of using Lorem Ipsum is that
-                it has a more-or-less normal distribution of letters</p>
+            <p>Welcome to you dashboard readily made available for your convenience.</p>
             <!-- <a href="#" class="waves-effect waves-light btn-large sdb-btn sdb-btn-edit"><i class="fa fa-pencil"></i>
                 Edit my profile</a> -->
         </div>

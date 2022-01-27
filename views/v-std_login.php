@@ -13,17 +13,16 @@ if(isset($_POST['login'])){
         <div class="col-md-12">
             <div class="log-in-pop-left">
                 <h1>Hello...</h1>
-                <p>Don't have an account? <a href="std_signup.php">Create your account</a>. It's take less then a
-                    minutes</p>
-                <h4>Login with social media</h4>
-                <ul>
+                <p>Login to view your dashboard, access fees, reults etc. Don't have an account? <a href="std_signup.php">Create your account</a>. It's take less then a minute</p>
+                <!-- <h4>Login with social media</h4> -->
+                <!-- <ul>
                     <li><a href="#"><i class="fa fa-facebook"></i> Facebook</a>
                     </li>
                     <li><a href="#"><i class="fa fa-google"></i> Google+</a>
                     </li>
                     <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
             <div class="log-in-pop-right">
                 <a href="#" class="pop-close" data-dismiss="modal"><img src="images/cancel.png" alt="" />

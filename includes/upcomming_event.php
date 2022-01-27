@@ -15,8 +15,8 @@ $awards = $crud->select($awardSQL);
     <div class="container com-sp pad-bot-0">
         <div class="row">
             <div class="con-title col-md-12">
-                <h2>Upcoming <span>Event</span></h2>
-                <p>We have the following events that will interest you sendin your wards tp this citadel of excellence.</p>
+                <h2>Events<span>and Activities</span></h2>
+                <p>Information relating to events and activities in and around the school for 2022/2023 session.</p>
             </div>
         </div>
         <div class="row">
@@ -26,8 +26,8 @@ $awards = $crud->select($awardSQL);
                 </div> -->
                 <div class="ho-ev-latest ho-ev-latest-bg-1">
                     <div class="ho-lat-ev">
-                        <h4>Upcoming Event</h4>
-                        <p>Students fasshion week is a highlight of the activities yet to unfold.</p>
+                        <h4>Student Event</h4>
+                        <p>Students information and their activities for the year 2022/2023.</p>
 
                     </div>
                 </div>
@@ -62,14 +62,14 @@ $awards = $crud->select($awardSQL);
                     </ul>
                 </div>
             </div>
-            <!-- <div class="col-md-4">
-                <div class="ho-ex-title">
+            <div class="col-md-4">
+                <!-- <div class="ho-ex-title">
 							<h4>Upcoming Event</h4>
-						</div>
+						</div> -->
                 <div class="ho-ev-latest ho-ev-latest-bg-2">
                     <div class="ho-lat-ev">
-                        <h4>Job Vacancy</h4>
-                        <p>Applicants that want to apply for any available position advertised can submit their resumes.</p>
+                        <h4>Admission and Enrollment</h4>
+                        <p>Admission and Enrollment criteria information for the year 2022/2023.</p>
 
                     </div>
                 </div>
@@ -91,15 +91,15 @@ $awards = $crud->select($awardSQL);
                         <?php } ?>
                     </ul>
                 </div>
-            </div> -->
+            </div>
             <div class="col-md-4">
                 <!-- <div class="ho-ex-title">
                     <h4>Upcoming Event</h4>
                 </div> -->
                 <div class="ho-ev-latest ho-ev-latest-bg-1">
                     <div class="ho-lat-ev">
-                        <h4>Staff</h4>
-                        <p>Staff Meetings and Updates.</p>
+                        <h4>Staff Events</h4>
+                        <p>Staff Meetings, Updates and their activities for the year 2022/2023.</p>
 
                     </div>
                 </div>

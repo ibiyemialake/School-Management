@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
         <div class="container">
             <div class="row">
                 <div class="wed-hom-ser">
@@ -12,11 +12,11 @@
                         <li>
                             <a href="all-course.php" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img src="assets/images/icon/h-ic4.png" alt="">Subjects</a>
                         </li>
-                        <!-- <li>
+                        <li>
                             <a href="seminars.php" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img src="assets/images/icon/h-ic3.png" alt=""> Seminar</a>
-                        </li> -->
+                        </li> 
                     </ul>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->

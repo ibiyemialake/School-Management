@@ -32,14 +32,6 @@
                             </a>
                         </div>
                     </div>
-                    <!-- <div class="col-md-3 col-sm-4 col-xs-12">
-                        <div class="ed-course-in">
-                            <a class="course-overlay" href="research.php">
-                                <img src="assets/images/h-res.jpg" alt="">
-                                <span>Research & Education</span>
-                            </a>
-                        </div>
-                    </div> -->
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="all-course.php">
@@ -48,7 +40,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-4 col-xs-12">
+                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="db-time-line.php">
                                 <img src="assets/images/h-adm.jpg" alt="">
@@ -56,6 +48,15 @@
                             </a>
                         </div>
                     </div>
+                      <!-- <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="research.php">
+                                <img src="assets/images/h-res.jpg" alt="">
+                                <span>Research & Education</span>
+                            </a>
+                        </div>
+                    </div> -->
+                   
                     <!-- <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="seminars.php">

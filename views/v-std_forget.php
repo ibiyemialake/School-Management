@@ -26,21 +26,20 @@
                     <p>Don't have an account? <a href="std_signup.php">Create your account</a>. It's take less then a
                         minutes</p>
                     <h4>Login with social media</h4>
-                    <ul>
+                    <!-- <ul>
                         <li><a href="#"><i class="fa fa-facebook"></i> Facebook</a>
                         </li>
                         <li><a href="#"><i class="fa fa-google"></i> Google+</a>
                         </li>
                         <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
                 <div class="log-in-pop-right">
                     <a href="#" class="pop-close" data-dismiss="modal"><img src="images/cancel.png" alt="" />
                     </a>
                     <h4>Forgot password</h4>
-                    <p>Don't have an account? <a href="std_signup.php" class="text-info">Create your account</a>. It's
-                        take less then a minutes</p>
+                    <p>Forgot your Password?, Enter your e-mail or username.</p>
                     <form class="s12" action="" method="post">
                         <div>
                             <div class="input-field s12">
