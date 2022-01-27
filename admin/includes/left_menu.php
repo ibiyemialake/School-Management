@@ -33,7 +33,7 @@
                  </li>
                  <!-- <li><a href="ad-setting.php"><i class="fa fa-cogs" aria-hidden="true"></i> Site Setting</a>
                  </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Courses</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -43,7 +43,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Classes</a>
                      <div class="collapsible-body left-sub-menu">

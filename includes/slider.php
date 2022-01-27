@@ -26,12 +26,12 @@
                         <a href="news_and_events.php" class="bann-btn-1">Events</a><a href="news_and_events.php" class="bann-btn-2">Read More</a>
                     </div>
                 </div>
-                <div class="item">
+                <!-- <div class="item">
                     <img src="assets/images/slider/7.jpg" alt="">
                     <div class="carousel-caption slider-con">
                         
                     </div>
-                </div>
+                </div> -->
                 <div class="item">
                     <img src="assets/images/slider/8.jpg" alt="">
                     <div class="carousel-caption slider-con">
@@ -54,4 +54,4 @@
                 <i class="fa fa-chevron-right slider-arr"></i>
             </a>
         </div>
-    </section>
+</section>
