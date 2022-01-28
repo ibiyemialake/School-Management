@@ -48,7 +48,7 @@
                                         <div class="sdb-cl-tim">
                                             <div class="sdb-cl-day">
                                                 <h5>Today</h5>
-                                                <span>10Sep 2018</span>
+                                                <span>10 Sep 2018</span>
                                             </div>
                                             <div class="sdb-cl-class">
                                                 <ul>

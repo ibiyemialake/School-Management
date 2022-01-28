@@ -1,6 +1,6 @@
-<?php
-$showSeminar = "SELECT * FROM `seminar`";
-$seminars = $crud->select($showSeminar);
+<!-- <?php
+// $showSeminar = "SELECT * FROM `seminar`";
+// $seminars = $crud->select($showSeminar);
 
 
 ?>
@@ -8,7 +8,7 @@ $seminars = $crud->select($showSeminar);
 
 <?php if($seminars){ ?>
 
-    <!--SECTION START-->
+    SECTION START
     <section>
         <div class="container com-sp">
             <div class="row">
@@ -59,8 +59,8 @@ $seminars = $crud->select($showSeminar);
                                 </ul>
                             </div>
                         </div>
-                        <!-- Pagination -->
-                            <!-- <div class="pg-pagina">
+                        Pagination
+                            <div class="pg-pagina">
                                 <ul class="pagination">
                                     <li class="disabled"><a href="#!"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
                                     </li>
@@ -73,16 +73,16 @@ $seminars = $crud->select($showSeminar);
                                                 aria-hidden="true"></i></a></li>
                                 </ul>
 
-                            </div> -->
-                        <!-- Pagination -->
+                            </div>
+                        Pagination
 
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--SECTION END-->
+    SECTION END
 
 
 
-<?php }else { header("Location: 404.php"); } ?>
+<?php }//else { header("Location: 404.php"); } ?> -->
