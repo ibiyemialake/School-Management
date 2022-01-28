@@ -31,9 +31,9 @@ $student = mysqli_fetch_assoc($Students);
                     <td><?php echo $student['email']; ?></td>
                 </tr>
                 <!-- <tr>
-                    <td>Registration</td>
+                    <td>Date of Birth</td>
                     <td>:</td>
-                    <td><?php //echo $student['RegNo']; ?></td>
+                    <td><?php echo $student['DOB']; ?></td>
                 </tr> -->
                 <tr>
                     <td>Phone</td>
@@ -50,11 +50,11 @@ $student = mysqli_fetch_assoc($Students);
                     <td>:</td>
                     <td><?php //echo $student['AcademicYear']; ?></td>
                 </tr>-->
-                <tr>
+                <!-- <tr>
                     <td>Date of birth</td>
                     <td>:</td>
-                    <td><?php echo $formating->BD_Date_Style($student['DOB']) ; ?></td>
-                </tr> 
+                    <td><?php// echo $formating->BD_Date_Style($student['DOB']) ; ?></td>
+                </tr>  -->
 
             </tbody>
         </table>

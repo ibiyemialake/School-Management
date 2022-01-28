@@ -10,8 +10,10 @@
 <!--==Teachers Details ==-->
 <?php include("admin-teacher-all.php") ;?>
 
+<!--==Admission details Details ==-->
+<?php include("admin-admission-all.php") ;?>
 <!--== Course Details ==-->
-<?php //include("admin-all-courses.php") ;?>
+<!-- <?php //include("admin-all-courses.php") ;?> -->
 
 
 

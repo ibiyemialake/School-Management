@@ -81,6 +81,9 @@
                         elseif($view == "all-teacher"){
                             include("views/admin-teacher-all.php");
                         }
+                        elseif($view == "all-admissionrequest"){
+                            include("views/admin-admission-all.php");
+                        }
                         elseif($view == "all-stuff"){
                             include("views/admin-stuff-all.php");
                         }
