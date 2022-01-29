@@ -29,7 +29,7 @@ include_once("includes/head.php");
 		<div class="ad-log-main">
 			<div class="ad-log-in">
 				<div class="ad-log-in-logo">
-					<a href="index-2.html"><img src="../assets/images/logo.png" alt=""></a>
+					<a href="index-2.html"><img src="../assets/images/ad_logo.png" alt=""></a>
 				</div>
 				<div class="ad-log-in-con">
 			<div class="log-in-pop-right">
