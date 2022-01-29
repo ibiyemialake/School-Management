@@ -18,7 +18,9 @@
     <?php //include_once("includes/news_and_events.php"); ?>
 
     <!-- POPULAR COURSES -->
-    <?php //include_once("includes/popular_course.php"); ?>
+
+    <?php // include_once("includes/popular_course.php"); ?>
+
 
 
 

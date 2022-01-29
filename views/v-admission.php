@@ -11,7 +11,7 @@ $classes = $crud->select($classSQL);
      $rqSMS = $crud->insert($courseRequestQuery);
      if(isset($rqSMS)){
 
-         echo "<script>alert('Application Send Success')</script>";
+         echo "<script>alert('Application Sent Successfully! Glad to have you onboard,')</script>";
          
 
      }
@@ -24,13 +24,10 @@ $classes = $crud->select($classSQL);
     <div class="container">
         <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
-                <h2>Request an Admission</h2>
-                <p>Fusce purus mauris, blandit vitae purus eget, viverra volutpat nibh. Nam in elementum nisi, a
-                    placerat nisi. Quisque ullamcorper magna in odio rhoncus semper.Sed nec ultricies velit. Aliquam non
-                    massa id enim ultrices aliquet a ac
-                    tortor.</p>
-                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-                <p class="help-line">Help Line <span>+880 1825 682260</span> </p> <span class="help-arrow pulse"><i
+                <h2>Request An Admission</h2>
+                <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
+                <p>We hope to have you here with us.</p>
+                <p class="help-line">Help Line <span>+0810 252 8676</span> </p> <span class="help-arrow pulse"><i
                         class="fa fa-angle-right" aria-hidden="true"></i></span>
             </div>
         </div>
@@ -63,12 +60,12 @@ $classes = $crud->select($classSQL);
                                 <input type="text" class="form-control" placeholder="Enter your city" name="req_admsn_city">
                             </div>
                         </div>
-                        <div class="form-group">
+                        <!-- <div class="form-group">
                             <label class="control-label col-sm-3">Education:</label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" placeholder="Enter your education" name="req_admsn_education">
                             </div>
-                        </div>
+                        </div> -->
                         <div class="form-group">
                             <label class="control-label col-sm-3">Class:</label>
                             <div class="col-sm-9">

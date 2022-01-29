@@ -15,9 +15,9 @@
 // $subjectSQL = "SELECT * FROM `subject`";
 
 
-
-?>
 // $subjects = $crud->select($subjectSQL);
+?>
+
 <div class="udb-sec udb-prof">
     <h4><img src="assets/images/icon/db1.png" alt="" />My Result</h4>
     <p>Welcome to your dashboard! Here gives you access to your results based on session and exam taken. </p>
