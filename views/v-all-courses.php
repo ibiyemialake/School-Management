@@ -10,7 +10,7 @@ $courses =  $crud->select($courseReq);
         <div class="row">
             <div class="con-title col-md-12">
                 <h2>All <span>Subjects</span></h2>
-                <p class="text-center">Here are some of the subjects offerred here at Anwarul Islam College at both Senior and Junior Secondary schoo levels.</p>
+                <p class="text-center">Here are some of the subjects offered here at Anwarul Islam College at both Senior and Junior Secondary school levels.</p>
             </div>
         </div>
         <div class="row">

@@ -1,3 +1,7 @@
+<div class="udb-sec udb-prof">
+    <h4><img src="assets/images/icon/db1.png" alt="" />Exams</h4>
+    <p>Welcome to your Exam dashboard! Here, you have full access to exams information such as the exams dates, time and duration. Ensure you have all of them marked in your calenders!</p>
+</div>
 <?php
 $examAllSQL = "SELECT * FROM `exam_all`";
 $exams = $crud->select($examAllSQL);

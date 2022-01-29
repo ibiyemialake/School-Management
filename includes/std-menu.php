@@ -4,10 +4,10 @@
         <div class="container">
             <div class="col-md-9 col-md-offset-3">
                 <ul>
-                    <li><a href="?std=std-dash-view" class="pro-act">My Dashboard</a></li>
+                    <!-- <li><a href="?std=std-dash-view" class="pro-act">My Dashboard</a></li> -->
                     <li><a href="?std=std-profile-view">Profile</a></li>
                     <!-- <li><a href="?std=std-course-view">Courses</a></li> -->
-                    <li><a href="?std=std-fees-view">Attendence</a></li>
+                    <!-- <li><a href="?std=std-fees-view">Attendence</a></li> -->
                     <li><a href="?std=std-fees-view">Fees</a></li>
                     <li><a href="?std=std-exam-view">Exams</a></li>
                     <li><a href="?std=std-result-view">Result</a></li>
