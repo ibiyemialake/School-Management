@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 // $awardSQL = "SELECT * FROM awards";
 // $awards = $crud->select($awardSQL);
 
@@ -13,7 +13,7 @@
 
 
 <!--SECTION START-->
-<!-- <section>
+<section>
     <div class="container com-sp pad-bot-70">
         <div class="row">
             <div class="cor about-sp">
@@ -23,8 +23,8 @@
                         <h2>History and <span> Awards</span></h2>
                         <p>Fusce id sem at ligula laoreet hendrerit venenatis sed purus. Ut pellentesque maximus lacus,
                             nec pharetra augue.</p>
-                    </div> -->
-                <!-- </div>
+                    </div>
+                 </div>
                 <div class="s18-age-event l-info-pack-days">
                     <ul>
 
@@ -87,4 +87,4 @@
         </div>
     </div>
 </section>
-SECTION END -->
+SECTION END
