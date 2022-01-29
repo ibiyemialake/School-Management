@@ -25,7 +25,7 @@
                     <div class="pro-user">
                         <img src="upload/principal.jpg" alt="user">
                     </div>
-                    <div class="pro-user-bio">
+                    <!-- <div class="pro-user-bio">
                         <ul>
                             <li>
                                 <h4>Folorunsho Ladoke</h4>
@@ -35,7 +35,7 @@
                             <li><a href="#!"><i class="fa fa-google-plus"></i> Google: my sample</a></li>
                             <li><a href="#!"><i class="fa fa-twitter"></i> Twitter: my sample</a></li> -->
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-9">
                     <div class="udb">
@@ -96,7 +96,7 @@
                                                 <ul>
                                                     <li>
                                                         <div class="sdb-cl-class-tim">
-                                                            <span>14 March - 18 March, 2022/span>
+                                                            <span>14 March - 18 March, 2022</span>
                                                             <!-- <span>10:15 am</span> -->
                                                         </div>
                                                         <div class="sdb-cl-class-name">
