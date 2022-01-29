@@ -1,4 +1,4 @@
-<!-- <?php
+ <?php
  $awardSQL = "SELECT * FROM awards";
  $awards = $crud->select($awardSQL);
 
