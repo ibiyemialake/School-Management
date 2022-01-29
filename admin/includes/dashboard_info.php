@@ -51,7 +51,7 @@
                 <div class="dash-book dash-b-2">
                     <h5>Admission</h5>
                     <h4><?php echo @$adm; ?></h4>
-                    <a href="#">View more</a>
+                    <a href="ad-admission-all.php">View more</a>
                 </div>
             </li>
             <li>
