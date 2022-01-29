@@ -23,7 +23,7 @@
                     <div class="carousel-caption slider-con">
                         <h2>News & <span>Events</span></h2>
                         <p>Stay up-to-date with the news and events happening in both the School on Admissions, School fees, Exams etc.</p>
-                        <a href="news_and_events.php" class="bann-btn-1">Events</a><a href="news_and_events.php" class="bann-btn-2">Read More</a>
+                        <!-- <a href="news_and_events.php" class="bann-btn-1">Events</a><a href="news_and_events.php" class="bann-btn-2">Read More</a> -->
                     </div>
                 </div>
                 <!-- <div class="item">
