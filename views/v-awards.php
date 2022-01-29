@@ -28,23 +28,23 @@
                 <div class="s18-age-event l-info-pack-days">
                     <ul>
 
-                        <?php //while($award = mysqli_fetch_assoc($awards)){ ?>
+                        <?php while($award = mysqli_fetch_assoc($awards)){ ?>
                         <li>
                             <div class="age-eve-com age-eve-1">
                                 <img src="images/icon/awa/2.png" alt="">
                             </div>
                             <div class="s17-eve-time">
                                 <div class="s17-eve-time-tim">
-                                    <span><?php //echo $award['time']; ?></span>
+                                    <span><?php echo $award['time']; ?></span>
                                 </div>
                                 <div class="s17-eve-time-msg">
-                                    <h4><?php //echo $award['name']; ?></h4>
-                                    <p><?php //echo $award['description']; ?></p>
-                                    <?php //if(!$award['toggle1_title'] == NULL && !$award['toggle1_des'] == NULL){ ?>
+                                    <h4><?php echo $award['name']; ?></h4>
+                                    <p><?php echo $award['description']; ?></p>
+                                    <?php if(!$award['toggle1_title'] == NULL && !$award['toggle1_des'] == NULL){ ?>
 
                                     <div class="time-hide time-hide-1">
-                                        <h5><?php //echo $award['toggle1_title']; ?></h5>
-                                        <p><?php //echo $award['toggle1_des']; ?></p>
+                                        <h5><?php echo $award['toggle1_title']; ?></h5>
+                                        <p><?php echo $award['toggle1_des']; ?></p>
 
                                     </div>
                                     <a href="#!" class="s17-sprit age-dwarr-btn time-hide-1-btn">
@@ -53,11 +53,11 @@
                                     <a href="#!" class="s17-sprit age-dwarr-btn time-hide-11-btn hb-com">
                                         <i class="fa fa-angle-up"></i>
                                     </a>
-                                        <?php //if(!$award['toggle2_title'] == NULL && !$award['toggle2_des'] == NULL){ ?>
+                                        <?php if(!$award['toggle2_title'] == NULL && !$award['toggle2_des'] == NULL){ ?>
 
                                         <div class="time-hide time-hide-1">
-                                            <h5><?php //echo $award['toggle2_title']; ?></h5>
-                                            <p><?php //echo $award['toggle2_des']; ?></p>
+                                            <h5><?php echo $award['toggle2_title']; ?></h5>
+                                            <p><?php echo $award['toggle2_des']; ?></p>
 
                                         </div>
                                         <a href="#!" class="s17-sprit age-dwarr-btn time-hide-1-btn">
