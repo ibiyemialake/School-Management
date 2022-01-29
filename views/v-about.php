@@ -36,11 +36,10 @@ $job = mysqli_fetch_assoc($jobs);
                                     <img src="images/adv/1.png" alt="">
                                 </div>
                                 <div class="ed-ad-dec">
-                                    <h4>Awards</h4>
-                                    <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-                                        himenaeos. Morbi bibendum imperdiet bibendum.</p>
+                                    <h4>History and Awards</h4>
+                                    <p>Take a look at some of our history at Anwarul and some awards won in past years. This gives an insight into what we stand for and how far we have come.</p>
                                     <a href="awards.php">Read more</a>
-                                    <a href="awards.html">Read more</a> 
+                                    <!-- <a href="awards.html">Read more</a>  -->
                                 </div>
                             </li>
                             <!-- <li>
@@ -60,8 +59,7 @@ $job = mysqli_fetch_assoc($jobs);
                                 </div>
                                 <div class="ed-ad-dec">
                                     <h4>Educations</h4>
-                                    <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at
-                                        faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
+                                    <p>Have an insight into some of the subjects we offer here at Anwarul at both Junior or Senior Level.</p>
                                     <a href="all-course.php">Read more</a>
                                 </div>
                             </li>
@@ -83,13 +81,12 @@ $job = mysqli_fetch_assoc($jobs);
                                 </div>
                                 <div class="ed-ad-dec">
                                     <h4>Facilities</h4>
-                                    <p>Maecenas venenatis, turpis ac tincidunt convallis, leo enim ultrices tortor, at
-                                        faucibus neque sapien ac elit. Curabitur ut ipsum odio.</p>
-                                    <a href="#">Read more</a>
+                                    <p>At Anwarul, we are quipped with the best of facilities ranfing from Science, Sports, Music etc.</p>
+                                    <!-- <a href="#">Read more</a> -->
                                      <a href="facilities.html">Read more</a> 
                                 </div>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <div class="ed-ad-img">
                                     <img src="images/adv/6.png" alt="">
                                 </div>
@@ -100,7 +97,7 @@ $job = mysqli_fetch_assoc($jobs);
                                     <a href="#">Read more</a>
                                      <a href="departments.html">Read more</a> 
                                 </div>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>

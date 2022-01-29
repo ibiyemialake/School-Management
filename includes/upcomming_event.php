@@ -15,7 +15,7 @@ $awards = $crud->select($awardSQL);
     <div class="container com-sp pad-bot-0">
         <div class="row">
             <div class="con-title col-md-12">
-                <h2>Events<span>and Activities</span></h2>
+                <h2>Events <span>and Activities</span></h2>
                 <p>Information relating to events and activities in and around the school for 2022/2023 session.</p>
             </div>
         </div>
