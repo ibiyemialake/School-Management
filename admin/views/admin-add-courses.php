@@ -50,11 +50,11 @@ if(isset($_POST['add_schedule'])){
                 <div class="sb2-2-add-blog sb2-2-1">
                     <h2>Add New Course</h2>
                <ul class="nav nav-tabs">
-                        <li class="active"><a data-toggle="tab" href="#home" aria-expanded="true"><i class="fa fa-info" aria-hidden="true"></i> <span>Course Detail</span></a>
+                        <li class="active"><a data-toggle="tab" href="#home" ><i class="fa fa-info" aria-hidden="true"></i> <span>Course Detail</span></a>
                         </li>
-                        <li class=""><a data-toggle="tab" href="#menu1" aria-expanded="false"><i class="fa fa-bed" aria-hidden="true"></i> <span>Course Process & Fees</span></a>
+                        <li class=""><a data-toggle="tab" href="#menu1" ><i class="fa fa-bed" aria-hidden="true"></i> <span>Course Process & Fees</span></a>
                         </li>
-                        <li class=""><a data-toggle="tab" href="#menu3" aria-expanded="false"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Time table</span></a>
+                        <li class=""><a data-toggle="tab" href="#menu3"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Time table</span></a>
                         </li>
                     </ul>
 
