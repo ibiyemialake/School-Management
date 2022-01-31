@@ -61,6 +61,7 @@ if(isset($_POST['add_schedule'])){
                     <div class="tab-content">
                         <div id="home" class="tab-pane fade active in">
                             <div class="box-inn-sp">
+                             hhhh
                                 <div class="inn-title">
                                     <h4>Course Information</h4>
                                 </div>
