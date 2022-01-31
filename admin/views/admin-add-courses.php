@@ -65,7 +65,7 @@ if(isset($_POST['add_schedule'])){
                                 <div class="inn-title">
                                     <h4>Course Information</h4>
                                 </div>
-                                <div class="bor">
+                                <div class="">
                                     <form accept="" method="post" enctype="multipart/form-data">
                                         <div class="row">
                                             <div class="input-field col s12">
