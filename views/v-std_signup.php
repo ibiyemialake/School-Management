@@ -10,11 +10,7 @@ $classes = $crud->select($classSQL);
     $studentQL = "SELECT * FROM `students`";
     $students = $crud->select($studentQL);
   $flag = FALSE;
-  while($std = mysqli_fetch_assoc($students)){
-   if($std['std_id'] == $std_id){
-    $flag = TRUE;
-   }
-  }
+  
      
      
 
@@ -23,7 +19,11 @@ $classes = $crud->select($classSQL);
      $size = $_FILES['image']['size'];
      extract($_POST);
   
-    
+    while($std = mysqli_fetch_assoc($students)){
+   if($std['std_id'] == $std_id){
+    $flag = TRUE;
+   }
+  }
   
     
     if($flag){
