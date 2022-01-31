@@ -98,19 +98,21 @@ $classes = $crud->select($classSQL);
         </div>
      
     </div>
-       <section>
+    <section>
     <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
                 <h2>Admission Policy</h2>
                 <p>These are guidelines to the requirements for securing admission into Temple School. We hope to have you here with us.</p>
-               <h3><b>Requirements:</b></h3>
+               <p><b>Requirements:</b></p>
                <p>1) <b>Age:</b> All wards or children entering into the Junior Secondary School 1 must have attained the age of 10+ years as at time of resumption and for Senior Secondary School 1 and upward must be 13+ years.</p>
-               <p>2) <b>Academic Requirements:</b></p> 
+               <p>2) <b>Academic Requirements:</b>
                <p>i) Before the entrance examination, the entrance form must be purchased, completed and submitted for all levels of the school.</p>
                <p>ii) For new students into the Junior Secondary School 1 (JSS 1), primary school certificate of excellent academic excellence must be presented.</p>
                <p>iii) For new students into intermediate classes (JSS2,SSS1, SSS2), transcript or previous result from former school should be presented.</p>
-               <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p>
-               <p><b>The following documents must be submitted along with the registration form:</b></p>
+               <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p></p> 
+             </div>
+             <div class="all-title quote-title qu-new">
+                <h3>The following documents must be submitted along with the registration form:</h3>
                <p>i) Three (3) current passport photograph</p>
                <p>ii) A copy of the child’s birth certificate</p>
                <p>iii) The previous term’s report card from previous school.</p>
