@@ -96,7 +96,9 @@ $classes = $crud->select($classSQL);
                 </div>
             </div>
         </div>
-        <section>
+     
+    </div>
+       <section>
     <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
                 <h2>Admission Policy</h2>
@@ -117,6 +119,5 @@ $classes = $crud->select($classSQL);
             </div>
         </div>
 </section>
-    </div>
 </section>
 <!--SECTION END-->
