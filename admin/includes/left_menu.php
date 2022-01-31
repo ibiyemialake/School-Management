@@ -39,7 +39,7 @@
                          <ul>
                              <li><a href="ad-all-course.php">All Subject</a>
                              </li>
-                             <li><a href="ad-add-course.php">Add New Subject</a>
+                             <li><a href="ad-subject-add.php">Add New Subject</a>
                              </li>
                          </ul>
                      </div>
