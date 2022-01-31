@@ -22,15 +22,20 @@ $classes = $crud->select($classSQL);
 <!--SECTION START-->
 <section class="c-all h-quote">
     <div class="container">
-        <div class="col-md-6 col-sm-12 col-xs-12">
+         <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
-                <h2>Request An Admission</h2>
-                <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
-                <p>We hope to have you here with us.</p>
-                <p class="help-line">Help Line <span>+0810 252 8676</span> </p> <span class="help-arrow pulse"><i
-                        class="fa fa-angle-right" aria-hidden="true"></i></span>
-            </div>
-        </div>
+                <h2>Admission Policy</h2>
+                <p>These are guidelines to the requirements for securing admission into Temple School. We hope to have you here with us.</p>
+               <p><b>Requirements:</b></p>
+               <p>1) <b>Age:</b> All wards or children entering into the Junior Secondary School 1 must have attained the age of 10+ years as at time of resumption and for Senior Secondary School 1 and upward must be 13+ years.</p>
+               <p>2) <b>Academic Requirements:</b>
+               <p>i) Before the entrance examination, the entrance form must be purchased, completed and submitted for all levels of the school.</p>
+               <p>ii) For new students into the Junior Secondary School 1 (JSS 1), primary school certificate of excellent academic excellence must be presented.</p>
+               <p>iii) For new students into intermediate classes (JSS2,SSS1, SSS2), transcript or previous result from former school should be presented.</p>
+               <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p></p> 
+             </div>
+    </div>
+       
         <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="n-form-com admiss-form">
                 <div class="col s12">
@@ -109,16 +114,12 @@ $classes = $crud->select($classSQL);
     <section>
     <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
-                <h2>Admission Policy</h2>
-                <p>These are guidelines to the requirements for securing admission into Temple School. We hope to have you here with us.</p>
-               <p><b>Requirements:</b></p>
-               <p>1) <b>Age:</b> All wards or children entering into the Junior Secondary School 1 must have attained the age of 10+ years as at time of resumption and for Senior Secondary School 1 and upward must be 13+ years.</p>
-               <p>2) <b>Academic Requirements:</b>
-               <p>i) Before the entrance examination, the entrance form must be purchased, completed and submitted for all levels of the school.</p>
-               <p>ii) For new students into the Junior Secondary School 1 (JSS 1), primary school certificate of excellent academic excellence must be presented.</p>
-               <p>iii) For new students into intermediate classes (JSS2,SSS1, SSS2), transcript or previous result from former school should be presented.</p>
-               <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p></p> 
-             </div>
+                <h2>Request An Admission</h2>
+                <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
+                <p>We hope to have you here with us.</p>
+                <p class="help-line">Help Line <span>+0810 252 8676</span> </p> <span class="help-arrow pulse"><i
+                        class="fa fa-angle-right" aria-hidden="true"></i></span>
+            </div>
         </div>
 </section>
 </section>
