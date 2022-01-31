@@ -93,7 +93,7 @@ INSERT INTO `admin_info` (`id`, `ad_name`, `ad_email`, `ad_pass`, `action_role`,
 (6, 'sfafsa', 'sdsdsd@sdg.bom', '2c49353669a4b803a493b0677f8045ca', 'viewer', 'saiful.jpg'),
 (13, 'fffffffff', 'sdsdsd@sdg.bom', '06a53dff852b2da2eea823e75450c4af', 'developer', 'saiful.jpg'),
 (15, 'hhhhhh', 'sdsdsd@sdg.bom', 'c34f20f0e8b1238253e6650e2015ac5e', 'viewer', 'roobon.png'),
-(16, 'Islam Yearul', 'islamyearul@gmail.com', '202cb962ac59075b964b07152d234b70', 'admin', 'Yearul-PP-2-Pic-2020-2.jpg'),
+(16, 'rhoda', 'rhoda@gmail.com', '202cb962ac59075b964b07152d234b70', 'admin', 'Yearul-PP-2-Pic-2020-2.jpg'),
 (17, 'user', 'user@user.com', 'ee11cbb19052e40b07aac0ca060c23ee', 'viewer', 'Thomas G. Giglione.jpg'),
 (18, 'abc', 'abc@abc.abc', '81dc9bdb52d04dc20036dbd8313ed055', 'Viewer', NULL);
 
