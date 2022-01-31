@@ -17,8 +17,9 @@ $classes = $crud->select($classSQL);
      $size = $_FILES['image']['size'];
      extract($_POST);
   
-     echo($std_id);
-     echo($stdid);
+    
+  echo "<script>alert(". $stdid .");</script>";
+     echo "<script>alert(". $std_id .");</script>";
     if($stdid == $std_id ){
 
      $errors = array();
