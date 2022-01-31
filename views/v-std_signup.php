@@ -7,9 +7,9 @@ $classes = $crud->select($classSQL);
 
  if(isset($_POST['register'])){
 
-    $studentQL = "SELECT * FROM `students` WHERE std_id =" . $std_id;
+    $studentQL = "SELECT * FROM `students`";
     $students = $crud->select($studentQL);
-//     $std = mysqli_fetch_assoc($students);
+     $std = mysqli_fetch_assoc($students);
      
 
      $ImgName = $_FILES['image']['name'];
