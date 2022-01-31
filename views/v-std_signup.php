@@ -10,7 +10,7 @@ $classes = $crud->select($classSQL);
     $studentQL = "SELECT * FROM `students`";
     $students = $crud->select($studentQL);
     $std = mysqli_fetch_assoc($students);
-     $stdid = $std['std_id '];
+     @$stdid = $std['std_id '];
 
      $ImgName = $_FILES['image']['name'];
      $TmpName = $_FILES['image']['tmp_name'];
