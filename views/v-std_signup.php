@@ -9,7 +9,13 @@ $classes = $crud->select($classSQL);
 
     $studentQL = "SELECT * FROM `students`";
     $students = $crud->select($studentQL);
-     $std = mysqli_fetch_assoc($students);
+  $flag = FALSE;
+  while($std = mysqli_fetch_assoc($students)){
+   if($std['std_id'] == $std_id){
+    $flag = TRUE;
+   }
+  }
+     
      
 
      $ImgName = $_FILES['image']['name'];
@@ -18,9 +24,9 @@ $classes = $crud->select($classSQL);
      extract($_POST);
   
     
-  echo "<script>alert(". $students->num_rows > 0 .");</script>";
+  
     
-    if($students->num_rows > 0){
+    if($flag){
 
      $errors = array();
      $sms;
