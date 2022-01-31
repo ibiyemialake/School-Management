@@ -6,13 +6,16 @@ $classSQL = "SELECT * FROM `class`";
 $classes = $crud->select($classSQL);
 
 if(isset($_POST['add_Subject'])){
+   $ImgName = $_FILES['course_image']['name'];
+    $TmpName = $_FILES['course_image']['tmp_name'];
+
     extract($_POST);
-    $addsubject = "CALL add_subject('$subject_name', '$class_id', '$teacher_id');";
-    $returnSMS = $crud->insert($addsubject);
-    if(isset($returnSMS)){
-        echo "<h2 class='text-success'>Subject Add Success</h2>";
-    }else{
-        echo "<h2 class='text-danger'>Subject Added Error, Please Try Again!!</h2>";
+
+    $addCourse = "INSERT INTO `courses`(`course_name`, `course_description`, `course_status`,`course_cat`, `course_seat`,`course_start_date`,`course_contact_person_name`, `course_contact_person_phone`, `course_contact_email`, `course_image`) VALUES ('$course_name','$course_description','$course_status','$course_cat','$course_seat','$course_start_date','$course_contactP_name','$course_contactP_phone','$course_contactP_email','$ImgName')";
+    $returnSMS = $crud->insert($addCourse);
+    if($returnSMS){
+        move_uploaded_file($TmpName, "upload/".$ImgName);
+        echo "<h3 class='text-success'>Course Add Success</h3>";
     }
 }
 ?>
