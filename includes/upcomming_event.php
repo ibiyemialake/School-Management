@@ -121,9 +121,8 @@ $awards = $crud->select($awardSQL);
                                 <span><?php //echo $event['time']; ?></span>
                             </div>
                         </li>
-                        <?php } ?>
-                        
 
+                        <?php } ?>
                     </ul>
                 </div>
                 <!-- <div class="ho-event ho-event-mob-bot-sp">
