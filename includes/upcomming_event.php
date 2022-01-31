@@ -48,11 +48,11 @@ $awards = $crud->select($awardSQL);
                         </li>
                         <?php } ?>
                         <li>
-                            <div class="ho-ev-date"><span>31</span><span>March,2022</span>
+                            <div class="ho-ev-date"><span>31</span><span>jan,2022</span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="events.html">
-                                    <h4>Cultural Day.</h4>
+                                    <h4>Cultural Day 2022.</h4>
                                 </a>
                                 <p>The richness of our culture would be on full display on this day</p>
                                 <span>9:00 am – 5:00 pm</span>
@@ -75,74 +75,22 @@ $awards = $crud->select($awardSQL);
                 </div>
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
-                        <!-- <?php //while($event = mysqli_fetch_assoc($events)){ ?>
+                        <?php while($job = mysqli_fetch_assoc($jobs)){ ?>
                         <li>
                             <div class="ho-ev-date">
-                                <span><?php //echo $formating->GET_DATE($event['date']); ?></span><span><?php //echo $formating->GET_MONTH_YEAR($event['date']); ?></span>
+                                <span><?php echo $formating->GET_DATE($job['job_start_date']); ?></span><span><?php echo $formating->GET_MONTH_YEAR($job['job_start_date']); ?></span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="#">
-                                    <h4><?php //echo $event['name']; ?></h4>
+                                    <h4><?php echo $job['job_post_name']; ?></h4>
                                 </a>
-                                <p><?php //echo $event['descriptions']; ?></p>
-                                <span><?php //echo $event['time']; ?></span>
-                            </div>
-                        </li>
-                        <?php } ?> -->
-                        <li>
-                            <div class="ho-ev-date"><span>31</span><span>March,2022</span>
-                            </div>
-                            <div class="ho-ev-link">
-                                <a href="events.html">
-                                    <h4>Enrollment Information.</h4>
-                                </a>
-                                <p>The richness of our culture would be on full display on this day</p>
-                                <!-- <span>9:00 am – 5:00 pm</span> -->
-                            </div>
-                        </li>
-                        <li>
-                            <div class="ho-ev-date"><span>31</span><span>March,2022</span>
-                            </div>
-                            <div class="ho-ev-link">
-                                <a href="events.html">
-                                    <h4>Admission Criteria.</h4>
-                                </a>
-                                <p>The richness of our culture would be on full display on this day</p>
-                                <!-- <span>9:00 am – 5:00 pm</span> -->
-                            </div>
-                        </li>
-                        <li>
-                            <div class="ho-ev-date"><span>31</span><span>March,2022</span>
-                            </div>
-                            <div class="ho-ev-link">
-                                <a href="events.html">
-                                    <h4>Documents and Information.</h4>
-                                </a>
-                                <p>The necessary information for Admission criteria are Previous report card, 50% pass for Entrance examination and Interview etc.</p>
-                                <!-- <span>9:00 am – 5:00 pm</span> -->
-                            </div>
-                        </li>
-
-                    </ul>
-                </div>
-                <!-- <div class="ho-event ho-event-mob-bot-sp">
-                    <ul>
-                        <?php //while($job = mysqli_fetch_assoc($jobs)){ ?>
-                        <li>
-                            <div class="ho-ev-date">
-                                <span><?php // echo $formating->GET_DATE($job['job_start_date']); ?></span><span><?php //echo $formating->GET_MONTH_YEAR($job['job_start_date']); ?></span>
-                            </div>
-                            <div class="ho-ev-link">
-                                <a href="#">
-                                    <h4><?php //echo $job['job_post_name']; ?></h4>
-                                </a>
-                                <p><?php //echo $job['job_description']; ?></p>
-                                <span>Location: <?php //echo $job['job_location']; ?></span>
+                                <p><?php echo $job['job_description']; ?></p>
+                                <span>Location: <?php echo $job['job_location']; ?></span>
                             </div>
                         </li>
                         <?php } ?>
                     </ul>
-                </div> -->
+                </div>
             </div>
             <div class="col-md-4">
                 <!-- <div class="ho-ex-title">
