@@ -7,10 +7,10 @@ $classes = $crud->select($classSQL);
 
  if(isset($_POST['register'])){
 
-    $studentQL = "SELECT * FROM `students`";
+    $studentQL = "SELECT * FROM `students` WHERE std_id = '$std_id'";
     $students = $crud->select($studentQL);
-    $std = mysqli_fetch_assoc($students);
-     @$stdid = $std['std_id '];
+//     $std = mysqli_fetch_assoc($students);
+     
 
      $ImgName = $_FILES['image']['name'];
      $TmpName = $_FILES['image']['tmp_name'];
@@ -20,7 +20,7 @@ $classes = $crud->select($classSQL);
     
   echo "<script>alert(". $stdid .");</script>";
      echo "<script>alert(". $std_id .");</script>";
-    if($stdid == $std_id ){
+    if($students->num_rows > 0 ){
 
      $errors = array();
      $sms;
