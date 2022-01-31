@@ -49,14 +49,14 @@ if(isset($_POST['add_schedule'])){
             <div class="box-inn-sp admin-form">
                 <div class="sb2-2-add-blog sb2-2-1">
                     <h2>Add New Course</h2>
-                    <ul class="nav nav-tabs tab-list">
+<!--                     <ul class="nav nav-tabs tab-list">
                         <li class="active"><a data-toggle="tab" href="#home" aria-expanded="true"><i class="fa fa-info" aria-hidden="true"></i> <span>Course Detail</span></a>
                         </li>
                         <li class=""><a data-toggle="tab" href="#menu1" aria-expanded="false"><i class="fa fa-bed" aria-hidden="true"></i> <span>Course Process & Fees</span></a>
                         </li>
                         <li class=""><a data-toggle="tab" href="#menu3" aria-expanded="false"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Time table</span></a>
                         </li>
-                    </ul>
+                    </ul> -->
 
                     <div class="tab-content">
                         <div id="home" class="tab-pane fade active in">
