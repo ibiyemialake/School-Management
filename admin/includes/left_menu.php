@@ -33,17 +33,17 @@
                  </li>
                  <!-- <li><a href="ad-setting.php"><i class="fa fa-cogs" aria-hidden="true"></i> Site Setting</a>
                  </li> -->
-                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
-                             aria-hidden="true"></i>Courses</a>
+                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                             aria-hidden="true"></i>Subject</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
-                             <li><a href="ad-all-course.php">All Course</a>
+                             <li><a href="ad-all-course.php">All Subject</a>
                              </li>
-                             <li><a href="ad-add-course.php">Add New Course</a>
+                             <li><a href="ad-subject-add.php">Add New Subject</a>
                              </li>
                          </ul>
                      </div>
-                 </li> -->
+                 </li>
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Classes</a>
                      <div class="collapsible-body left-sub-menu">
@@ -66,7 +66,7 @@
                          </ul>
                      </div>
                  </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+<!--                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Subjects</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -76,8 +76,10 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
-                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
+
+                 </li> -->
+                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
+
                              aria-hidden="true"></i> Users</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>

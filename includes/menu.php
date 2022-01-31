@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="wed-logo">
-                    <a href="index.php"><img src="assets/images/logo.png" alt="" />
+                    <a href="index.php"><img src="assets/images/ad_logo.png" alt="" />
                     </a>
                 </div>
                 <div class="main-menu">

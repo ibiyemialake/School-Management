@@ -49,22 +49,23 @@ if(isset($_POST['add_schedule'])){
             <div class="box-inn-sp admin-form">
                 <div class="sb2-2-add-blog sb2-2-1">
                     <h2>Add New Course</h2>
-                    <ul class="nav nav-tabs tab-list">
-                        <li class="active"><a data-toggle="tab" href="#home" aria-expanded="true"><i class="fa fa-info" aria-hidden="true"></i> <span>Course Detail</span></a>
+               <ul class="nav nav-tabs">
+                        <li class="active"><a data-toggle="tab" href="#home" ><i class="fa fa-info" aria-hidden="true"></i> <span>Course Detail</span></a>
                         </li>
-                        <li class=""><a data-toggle="tab" href="#menu1" aria-expanded="false"><i class="fa fa-bed" aria-hidden="true"></i> <span>Course Process & Fees</span></a>
+                        <li class=""><a data-toggle="tab" href="#menu1" ><i class="fa fa-bed" aria-hidden="true"></i> <span>Course Process & Fees</span></a>
                         </li>
-                        <li class=""><a data-toggle="tab" href="#menu3" aria-expanded="false"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Time table</span></a>
+                        <li class=""><a data-toggle="tab" href="#menu3"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Time table</span></a>
                         </li>
                     </ul>
 
                     <div class="tab-content">
                         <div id="home" class="tab-pane fade active in">
                             <div class="box-inn-sp">
+                          
                                 <div class="inn-title">
                                     <h4>Course Information</h4>
                                 </div>
-                                <div class="bor">
+                                <div class="">
                                     <form accept="" method="post" enctype="multipart/form-data">
                                         <div class="row">
                                             <div class="input-field col s12">
@@ -317,6 +318,7 @@ if(isset($_POST['add_schedule'])){
                         </div>
 
                     </div>
+                   
                 </div>
             </div>
         </div>

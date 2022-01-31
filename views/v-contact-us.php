@@ -64,7 +64,7 @@
                         <p>Send Us Now</p>
                         <h2>GetIn Touch</h2> <span class="footer-ser-re">Service Request Form</span> </div>
                         <h3 class="text-center">
-                             <?php if(isset($result)){ echo "<span class='footer-ser-re'>$result</span>";} ?> 
+                             <?php //if(isset($result)){ echo "<span class='footer-ser-re'>$result</span>";} ?> 
                              
                         </h3> -->
                   <!--   ENQUIRY FORM 

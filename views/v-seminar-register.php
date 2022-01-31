@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
     if(isset($_GET['status'])){
         if($_GET['status']=='seminar-registration'){
             $id = $_GET['id'];
@@ -22,7 +22,7 @@
 
 ?>
 
-<!--SECTION START-->
+SECTION START
 <section class="c-all p-semi p-event">
     <div class="semi-inn">
         <div class="semi-com semi-left">
@@ -33,7 +33,7 @@
                     <ul>
                         <li>DATE:<span><?php echo $seminar['seminar_date']; ?></span></li>
                         <li>Time:<span><?php echo $formating->GET_TIME($seminar['seminar_time']); ?> </span></li>
-                        <!-- <li>Topic:<span>Feature Technology</span></li> -->
+                      <li>Topic:<span>Feature Technology</span></li> 
                         <li>Location:<span><?php echo $seminar['seminar_location']; ?></span></li>
                     </ul>
                 </div>
@@ -77,4 +77,4 @@
         </div>
     </div>
 </section>
-<!--SECTION END-->
+SECTION END -->

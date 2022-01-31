@@ -1,6 +1,6 @@
-<?php
-$awardSQL = "SELECT * FROM awards";
-$awards = $crud->select($awardSQL);
+ <?php
+ $awardSQL = "SELECT * FROM awards";
+ $awards = $crud->select($awardSQL);
 
 
 
@@ -21,10 +21,9 @@ $awards = $crud->select($awardSQL);
                 <div class="ed-about-tit">
                     <div class="con-title">
                         <h2>History and <span> Awards</span></h2>
-                        <p>Fusce id sem at ligula laoreet hendrerit venenatis sed purus. Ut pellentesque maximus lacus,
-                            nec pharetra augue.</p>
+                        <p>Take a look at some of our history at Anwarul and some awards won in past years. This gives an insight into what we stand for and how far we have come.</p>
                     </div>
-                </div>
+                 </div>
                 <div class="s18-age-event l-info-pack-days">
                     <ul>
 
@@ -87,4 +86,4 @@ $awards = $crud->select($awardSQL);
         </div>
     </div>
 </section>
-<!--SECTION END-->
+<!-- SECTION END -->

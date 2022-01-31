@@ -3,7 +3,7 @@ Eng<section>
             <div class="ed-mob-menu-con">
                 <div class="ed-mm-left">
                     <div class="wed-logo">
-                        <a href="index.php"><img src="assets/images/logo.png" alt="" />
+                        <a href="index.php"><img src="assets/images/ad_logo.png" alt="" />
 						</a>
                     </div>
                 </div>
