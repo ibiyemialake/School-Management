@@ -19,7 +19,7 @@ $classes = $crud->select($classSQL);
 
     if($stdid == $std_id ){
 
-
+    echo ("my name is pakasuma");
      $errors = array();
      $sms;
        $n = explode(".", $ImgName);
