@@ -7,7 +7,7 @@ $classes = $crud->select($classSQL);
 
  if(isset($_POST['register'])){
 
-    $studentQL = "SELECT * FROM `students` WHERE std_id =" . $std_id";
+    $studentQL = "SELECT * FROM `students` WHERE std_id =" . $std_id;
     $students = $crud->select($studentQL);
 //     $std = mysqli_fetch_assoc($students);
      
