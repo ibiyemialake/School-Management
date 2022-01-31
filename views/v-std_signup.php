@@ -7,7 +7,7 @@ $classes = $crud->select($classSQL);
 
  if(isset($_POST['register'])){
 
-    $studentQL = "SELECT * FROM `students` WHERE std_id = '$std_id'";
+    $studentQL = "SELECT * FROM `students` WHERE std_id =" . $std_id";
     $students = $crud->select($studentQL);
 //     $std = mysqli_fetch_assoc($students);
      
@@ -18,9 +18,9 @@ $classes = $crud->select($classSQL);
      extract($_POST);
   
     
-  echo "<script>alert(". $stdid .");</script>";
-     echo "<script>alert(". $std_id .");</script>";
-    if($students->num_rows > 0 ){
+  echo "<script>alert(". $students->num_rows > 0 .");</script>";
+    
+    if($students->num_rows > 0){
 
      $errors = array();
      $sms;
