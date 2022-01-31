@@ -16,10 +16,11 @@ $classes = $crud->select($classSQL);
      $TmpName = $_FILES['image']['tmp_name'];
      $size = $_FILES['image']['size'];
      extract($_POST);
-
+  
+     echo($std_id);
+     echo($stdid);
     if($stdid == $std_id ){
 
-    echo ("my name is pakasuma");
      $errors = array();
      $sms;
        $n = explode(".", $ImgName);
