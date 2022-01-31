@@ -77,7 +77,7 @@
                          </ul>
                      </div>
                  </li>
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
                              aria-hidden="true"></i> Users</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -87,7 +87,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-user"
                              aria-hidden="true"></i> Teachers </a>
                      <div class="collapsible-body left-sub-menu">

@@ -7,7 +7,7 @@ $classes = $crud->select($classSQL);
 
 if(isset($_POST['add_Subject'])){
     extract($_POST);
-    $addsubject = "CALL add_subject('$subject_name', '$class_id', '$teacher_id');";
+    $addsubject = "CALL add_subject('$subject_name' , '$class_id', '$teacher_id');";
     $returnSMS = $crud->insert($addsubject);
     if(isset($returnSMS)){
         echo "<h2 class='text-success'>Subject Add Success</h2>";

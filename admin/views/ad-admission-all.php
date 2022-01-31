@@ -1,6 +1,6 @@
 <?php
 
- $view = "all-admissionrequest";
+ $view = "all-admission";
 
  include("template.php");
 

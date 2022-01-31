@@ -33,9 +33,9 @@ if(isset($_GET['status'])){
                                     <th>Serial No</th>
                                     <th>Subject ID</th>
                                     <th>Subject Name</th>
-                                    <th>Class ID</th>
-                                    <th>Teachers ID</th>
-                                    <th>Action</th>
+                                    <!-- <th>Class ID</th>
+                                    <th>Teachers ID</th> -->
+                                    <!-- <th>Action</th> -->
                                 </tr>
                             </thead>
                             <tbody>
@@ -47,7 +47,7 @@ if(isset($_GET['status'])){
                                     <td><?php echo $i++; ?></td>
                                     <td><?php echo $subject['subject_id']; ?></td>
                                     <td><?php echo $subject['name']; ?></td>
-                                    <td>
+                                    <!-- <td>
                                         <?php $sub= $subject['class_id'];
                                         $ClsSQL ="SELECT * FROM `class` WHERE class_id = $sub";
                                         $Clss = $crud->select($ClsSQL);
@@ -57,11 +57,11 @@ if(isset($_GET['status'])){
                                         }
 
                                          ?> 
-                                    </td>
-                                    <td>
+                                    </td> -->
+                                    <!-- <td>
                                         <?php 
                                         $tcher = $subject['teacher_id'] ;
-                                        $tcherSQL ="SELECT * FROM `teachers` WHERE teachers_id = $tcher";
+                                        $tcherSQL ="SELECT * FROM `teachers` WHERE teachers_id = $teacher";
                                         $tchs = $crud->select($tcherSQL);
                                         $tch = mysqli_fetch_assoc($tchs);
                                         if($cls){
@@ -69,11 +69,11 @@ if(isset($_GET['status'])){
                                         }
 
                                         ?>
-                                    </td>
-                                    <td>
+                                    </td> -->
+                                    <!-- <td>
                                         <a href="ad-subject-edit.php?status=edit&&id=<?php echo $subject['subject_id'] ?>" class="ad-st-view bg-info">Edit</a>
                                         <a onclick="return confirm('Are You Sure??')" href="?status=delete&&id=<?php echo $subject['subject_id'] ?>" class="ad-st-view bg-danger">Delete</a>
-                                   </td>
+                                   </td> -->
                                 </tr>
 
                                 <?php } ?>

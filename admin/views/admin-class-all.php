@@ -32,10 +32,10 @@ if(isset($_GET['status'])){
                             <thead>
                                 <tr>
                                     <th>Serial</th>
-                                    <th>ID</th>
+                                    <!-- <th>ID</th> -->
                                     <th>Class Name</th>
                                     <th>Class Name Numeric</th>
-                                    <th>Teachers ID</th>
+                                    <!-- <th>Teachers ID</th> -->
                                     <th>Action</th>
                                 </tr>
                             </thead>
@@ -46,10 +46,10 @@ if(isset($_GET['status'])){
                             ?>
                                 <tr>
                                     <td><?php echo $i++; ?></td>
-                                    <td><?php echo $class['class_id']; ?></td>
+                                    <!-- <td><?php echo $class['class_id']; ?></td> -->
                                     <td><?php echo $class['name']; ?></td>
                                     <td><?php echo $class['name_numeric']; ?> </td>
-                                    <td><?php echo $class['teacher_id'] ?></td>
+                                    <!-- <td><?php echo $class['teacher_id'] ?></td> -->
                                     <td>
                                         <a href="ad-class-edit.php?status=edit&&id=<?php echo $class['class_id'] ?>" class="ad-st-view bg-info">Edit</a>
                                         <a onclick="confirm('Are You Sure??')" href="?status=delete&&id=<?php echo $class['class_id'] ?>" class="ad-st-view bg-danger">Delete</a>
