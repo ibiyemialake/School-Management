@@ -21,8 +21,8 @@
         </div>
         <div class="stu-db">
             <div class="container pg-inn">
-                <div class="col-md-3">
-                    <!-- <div class="pro-user">
+               <!--  <div class="col-md-3">
+                    <div class="pro-user">
                         <img src="upload/principal.jpg" alt="user">
                     </div> -->
                     <!-- <div class="pro-user-bio">
@@ -35,12 +35,12 @@
                             <li><a href="#!"><i class="fa fa-google-plus"></i> Google: my sample</a></li>
                             <li><a href="#!"><i class="fa fa-twitter"></i> Twitter: my sample</a></li> 
                         </ul>
-                    </div> -->
-                </div>
+                    </div> 
+                </div>-->
                 <div class="col-md-9">
                     <div class="udb">
                         <div class="udb-sec udb-time">
-                            <h4><img src="images/icon/db4.png" alt="" /> Academic Calender/Timeline</h4>
+                            <h1><img src="images/icon/db4.png" alt="" /> Academic Calender/Timeline</h1>
                             <p>This represents the timeline of the first term for the session 2022/2023. It represents the flow of the activities going to occur from teachings, holidays, social activities etc</p>
                             <div class="tour_head1 udb-time-line days">
                                 <ul>
@@ -181,6 +181,7 @@
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <h4><span>Holiday: </span> Childrens Day </h4>
                                         <p>Childrens Day: National Holiday.</p>
+                                        <p>School Vacation: 30th May, 2022.</p>
                                     </li>
                                 </ul>
                             </div>
