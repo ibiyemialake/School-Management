@@ -1,4 +1,4 @@
-<div class="col-md-12">
+<!-- <div class="col-md-12">
     <div class="box-inn-sp">
         <div class="inn-title">
             <h4>Exam Time Tables</h4>
@@ -10,7 +10,7 @@
                     <thead>
                         <tr>
                             <th>Select</th>
-                            <!-- <th>DegreeC</th> -->
+                             <th>DegreeC</th>
                             <th>Subjects</th>
                             <th>Start Date</th>
                             <th>End Date</th>
@@ -24,7 +24,7 @@
                                 <input type="checkbox" class="filled-in" id="filled-in-box-1" checked="checked" />
                                 <label for="filled-in-box-1"></label>
                             </td>
-                            <!-- <td>MBA</td> -->
+                             <td>MBA</td>
                             <td><span class="list-enq-name">Civil engineering</span><span
                                     class="list-enq-city">Illunois, United States</span>
                             </td>
@@ -104,4 +104,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
