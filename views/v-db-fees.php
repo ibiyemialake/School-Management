@@ -84,11 +84,11 @@ if(isset($_POST['add_fees'])){
 
 <!-- Add Fees -->
 <div class="container" >
-    <div class="row">
+<!--     <div class="row">
         <div class="col-md-4 offset-md-3"> <button style="font-size: 20px; font-family: arial; font-weight: bold;"
                 class="btn btn-outline-success" type="button" id="subress">Add Fees</button> </div>
     </div>
-</div>
+</div> -->
 <div class="container" id="fullresult" style="display: none;">
     <!-- echo -->
     <div class="sb2-2-3">

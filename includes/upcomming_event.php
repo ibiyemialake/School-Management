@@ -138,7 +138,6 @@ $awards = $crud->select($awardSQL);
                 </div>
             </div>
             <!-- <div class="col-md-4">
-
                 <div class="ho-ev-latest ho-ev-latest-bg-3">
                     <div class="ho-lat-ev">
                         <h4>Register & Login</h4>
