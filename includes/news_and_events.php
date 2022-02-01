@@ -42,6 +42,17 @@ $i = 0;
                 <div class="bot-gal h-gal ho-event-mob-bot-sp">
                     <h4>Photo Gallery</h4>
                     <ul>
+                        <li>
+                            <div class="ho-ev-date"><span>31</span><span>jan,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Cultural Day 2022.</h4>
+                                </a>
+                                <p>The richness of our culture would be on full display on this day</p>
+                                <span>9:00 am – 5:00 pm</span>
+                            </div>
+                        </li>
                         <?php foreach ($images as $item) {   $i++; ?>
                             
                             <li><img class="materialboxed img-thumbnail" data-caption="Education master image captions"
