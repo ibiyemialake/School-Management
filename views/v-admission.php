@@ -98,7 +98,7 @@
                                 <select name="req_admsn_course">
                                     <option value="" selected disabled>-- Select Class --</option>
                                     <?php //while($course = mysqli_fetch_assoc($classes)){ ?>
-                                        <option value="<?php// echo $course['name']; ?>"><?php echo $course['name']; ?></option>
+                                        <option value="<?php// echo $course['name']; ?>"><?php //echo $course['name']; ?></option>
                                     <?php } ?>
                                     <!-- <option>Aerospace Engineering</option>
                                     <option>Agriculture Courses</option>
