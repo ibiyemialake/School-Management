@@ -39,13 +39,13 @@
                                 <label class="">Registration No</label>
                             </div>
                             <div class="input-field col s6">
-                                <input type="number" class="validate" value="" required name="std_class">
+                                <input type="text" class="validate" value="" required name="std_class">
                                 <label class="">Class</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s6">
-                                <input type="number" value="" class="validate" name="std_academic_year">
+                                <input type="text" value="" class="validate" name="std_academic_year">
                                 <label class="">Academic Year</label>
                             </div>
                             <div class="input-field col s6">
