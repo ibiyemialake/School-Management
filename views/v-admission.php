@@ -55,7 +55,7 @@ $classes = $crud->select($classSQL);
             <div class="n-form-com admiss-form">
                 <div class="col s12">
                 <div>
-                    <h2>Request An Admission</h2>
+                    <h1>Request An Admission</h1>
                     <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
                     <p>We hope to have you here with us.</p>
                     <p>Help Line <span>+0810 252 8676</span></p>
