@@ -30,7 +30,7 @@
                                         <div class="sdb-cl-tim">
                                             <div class="sdb-cl-day">
                                                 <h5>Best Graduating Student in Oyo State</h5>
-                                                <span>08 April 2020</span>
+                                                <span>08 April, 2020</span>
                                             </div>
                                             <div class="sdb-cl-class">
                                                 <ul>
