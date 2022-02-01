@@ -1,23 +1,23 @@
-<?php 
-$classSQL = "SELECT * FROM `class`";
-$classes = $crud->select($classSQL);
+<!-- <?php 
+//$classSQL = "SELECT * FROM `class`";
+//$classes = $crud->select($classSQL);
 
- $courseReq = "SELECT * FROM `courses`";
- $courses =  $crud->select($courseReq);
+ //$courseReq = "SELECT * FROM `courses`";
+ //$courses =  $crud->select($courseReq);
 
- if(isset($_POST['admission_request'])){
-     extract($_POST);
-     $courseRequestQuery = "INSERT INTO `admission_request`( `name`, `phone`, `email`, `city`, `education`, `course`) VALUES ('$req_admsn_name','$req_admsn_phone','$req_admsn_email','$req_admsn_city','$req_admsn_education','$req_admsn_course')";
-     $rqSMS = $crud->insert($courseRequestQuery);
-     if(isset($rqSMS)){
+ //if(isset($_POST['admission_request'])){
+   //  extract($_POST);
+     //$courseRequestQuery = "INSERT INTO `admission_request`( `name`, `phone`, `email`, `city`, `education`, `course`) VALUES ('$req_admsn_name','$req_admsn_phone','$req_admsn_email','$req_admsn_city','$req_admsn_education','$req_admsn_course')";
+     //$rqSMS = $crud->insert($courseRequestQuery);
+     //if(isset($rqSMS)){
 
-         echo "<script>alert('Application Sent Successfully! Glad to have you onboard,')</script>";
+         //echo "<script>alert('Application Sent Successfully! Glad to have you onboard,')</script>";
          
 
      }
     
  }
-?>
+?> -->
 
 <!--SECTION START-->
 <section class="c-all h-quote">
@@ -70,7 +70,7 @@ $classes = $crud->select($classSQL);
                         <div class="form-group">
                             <label class="control-label col-sm-3">Phone:</label>
                             <div class="col-sm-9">
-                                <input type="number" class="form-control" placeholder="Enter your phone number"
+                                <input type="text" class="form-control" placeholder="Enter your phone number"
                                     required name="req_admsn_phone">
                             </div>
                         </div>
@@ -92,13 +92,13 @@ $classes = $crud->select($classSQL);
                                 <input type="text" class="form-control" placeholder="Enter your education" name="req_admsn_education">
                             </div>
                         </div> -->
-                        <div class="form-group">
+                        <!-- <div class="form-group">
                             <label class="control-label col-sm-3">Class:</label>
                             <div class="col-sm-9">
                                 <select name="req_admsn_course">
                                     <option value="" selected disabled>-- Select Class --</option>
-                                    <?php while($course = mysqli_fetch_assoc($classes)){ ?>
-                                        <option value="<?php echo $course['name']; ?>"><?php echo $course['name']; ?></option>
+                                    <?php //while($course = mysqli_fetch_assoc($classes)){ ?>
+                                        <option value="<?php //echo $course['name']; ?>"><?php //echo $course['name']; ?></option>
                                     <?php } ?>
                                     <!-- <option>Aerospace Engineering</option>
                                     <option>Agriculture Courses</option>
@@ -112,7 +112,7 @@ $classes = $crud->select($classSQL);
                                     <option>Chemical Engineering</option> -->
                                 </select>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="form-group mar-bot-0">
                             <div class="col-sm-offset-3 col-sm-9">
                                 <i class="waves-effect waves-light light-btn waves-input-wrapper"><input type="submit" value="APPLY NOW" class="waves-button-input" name="admission_request"></i>
