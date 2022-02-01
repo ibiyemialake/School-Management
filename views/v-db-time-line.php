@@ -40,7 +40,7 @@
                 <div class="col-md-9">
                     <div class="udb">
                         <div class="udb-sec udb-time">
-                            <h2><img src="images/icon/db4.png" alt="" /> Academic Calender/Timeline</h2>
+                            <h1><img src="images/icon/db4.png" alt="" /> Academic Calender/Timeline</h1>
                             <p>This represents the timeline of the first term for the session 2022/2023. It represents the flow of the activities going to occur from teachings, holidays, social activities etc</p>
                             <div class="tour_head1 udb-time-line days">
                                 <ul>
