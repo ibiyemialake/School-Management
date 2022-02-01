@@ -46,8 +46,7 @@ $classes = $crud->select($classSQL);
                <p>iv) A sample of exercise books for English, Mathematics and Science from the previous school</p>
                <p>v) Guarantors or Guardian letter.</p>
             </div>
-             </p> <span class="help-arrow pulse"><i
-                            class="fa fa-angle-right" aria-hidden="true"></i></span>
+             <span class="help-arrow pulse"><i class="fa fa-angle-right" aria-hidden="true"></i></span>
 
         </div>
        
@@ -59,7 +58,7 @@ $classes = $crud->select($classSQL);
                     <h2>Request An Admission</h2>
                     <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
                     <p>We hope to have you here with us.</p>
-                    <p class="help-line">Help Line <span>+0810 252 8676</span>
+                    <p>Help Line <span>+0810 252 8676</span></p>
                 </div>
                     <form class="form-horizontal" action="" method="POST">
                         <div class="form-group">
