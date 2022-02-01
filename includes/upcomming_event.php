@@ -1,16 +1,16 @@
-<?php
+<!-- <?//php
 
- $showJobannounce = "SELECT * FROM `job_anounce` ORDER BY job_announce_id  DESC LIMIT 5";
- $jobs = $crud->select($showJobannounce);
+// $showJobannounce = "SELECT * FROM `job_anounce` ORDER BY job_announce_id  DESC LIMIT 5";
+// $jobs = $crud->select($showJobannounce);
 
- $showeventannounce = "SELECT * FROM `add_event` ORDER BY date  DESC LIMIT 5";
- $events = $crud->select($showeventannounce);
+ //$showeventannounce = "SELECT * FROM `add_event` ORDER BY date  DESC LIMIT 5";
+ //$events = $crud->select($showeventannounce);
 
- $awardSQL = "SELECT * FROM awards ORDER BY date  DESC LIMIT 5";
-$awards = $crud->select($awardSQL);
+ //$awardSQL = "SELECT * FROM awards ORDER BY date  DESC LIMIT 5";
+//$awards = $crud->select($awardSQL);
 
 
-?>
+?> -->
 <section>
     <div class="container com-sp pad-bot-0">
         <div class="row">
@@ -76,25 +76,25 @@ $awards = $crud->select($awardSQL);
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
                         <li>
-                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            <div class="ho-ev-date"><span>23</span><span>Jan,2022</span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="events.html">
                                     <h4>Enrollment Criteria.</h4>
                                 </a>
                                 <p>All information needed are stated in the Admissions Page</p>
-                                <span>February, 2022</span>
+                                <span>January, 2022</span>
                             </div>
                         </li>
                          <li>
-                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            <div class="ho-ev-date"><span>25</span><span>Jan,2022</span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="events.html">
                                     <h4>Parents and Children/Ward</h4>
                                 </a>
                                 <p>Parents be advised to help your ward/guardian adequatly prepare for the exams this month.</p>
-                                <span>February, 2022</span>
+                                <span>January, 2022</span>
                             </div>
                         </li>
                          <li>
@@ -119,20 +119,20 @@ $awards = $crud->select($awardSQL);
                                 <span>February, 2022</span>
                             </div>
                         </li>
-                        <?php while($job = mysqli_fetch_assoc($jobs)){ ?>
+                        <!-- <?//php //while($job = mysqli_fetch_assoc($jobs)){ ?>
                         <li>
                             <div class="ho-ev-date">
-                                <span><?php echo $formating->GET_DATE($job['job_start_date']); ?></span><span><?php echo $formating->GET_MONTH_YEAR($job['job_start_date']); ?></span>
+                                <span><?//php //echo $formating->GET_DATE($job['job_start_date']); ?></span><span><?//php //echo $formating->GET_MONTH_YEAR($job['job_start_date']); ?></span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="#">
-                                    <h4><?php echo $job['job_post_name']; ?></h4>
+                                    <h4><?//php //echo $job['job_post_name']; ?></h4>
                                 </a>
-                                <p><?php echo $job['job_description']; ?></p>
-                                <span>Location: <?php echo $job['job_location']; ?></span>
+                                <p><?//php //echo $job['job_description']; ?></p>
+                                <span>Location: <?//php //echo $job['job_location']; ?></span>
                             </div>
                         </li>
-                        <?php } ?>
+                        <?php } ?> -->
                     </ul>
                 </div>
             </div>
@@ -149,20 +149,53 @@ $awards = $crud->select($awardSQL);
                 </div>
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
-                        <?php while($award = mysqli_fetch_assoc($awards)){ ?>
+                        <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>First Staff Meeting.</h4>
+                                </a>
+                                <p>Welcome back our distinguished academic and non academic staff.</p>
+                                <span>13 February, 2022</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Staff Briefing</h4>
+                                </a>
+                                <p>All department are to meet to plan out the session</p>
+                                <span>15 February, 2022</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Assessment for 2022/2023</h4>
+                                </a>
+                                <p>There would a new system of accessing students come March, 2022.</p>
+                                <span>1 March, 2022</span>
+                            </div>
+                        </li>
+                        <!-- <?//php while($award = mysqli_fetch_assoc($awards)){ ?>
                         <li>
                             <div class="ho-ev-date">
-                                <span><?php echo $formating->GET_DATE($award['date']); ?></span><span><?php echo $formating->GET_MONTH_YEAR($award['date']); ?></span>
+                                <span><?//php //echo $formating->GET_DATE($award['date']); ?></span><span><?//php //echo $formating->GET_MONTH_YEAR($award['date']); ?></span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="awards.php">
-                                    <h4><?php echo $award['name']; ?></h4>
+                                    <h4><?//php //echo $award['name']; ?></h4>
                                 </a>
-                                <p><?php echo $award['description']; ?></p>
-                                <span><?php echo $award['time']; ?></span>
+                                <p><?//php //echo $award['description']; ?></p>
+                                <span><?//php //echo $award['time']; ?></span>
                             </div>
                         </li>
-                        <?php } ?>
+                        <?//php } ?> -->
 
 
 
