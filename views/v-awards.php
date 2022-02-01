@@ -25,7 +25,6 @@
                     </div>
                  </div>
                 <div class="s18-age-event l-info-pack-days">
-                    <div class="tour_head1 udb-time-line days">
                                 <ul>
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <div class="sdb-cl-tim">
