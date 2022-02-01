@@ -29,17 +29,17 @@ if(isset($resSMS)){
                         <div class="row">
                             <div class="input-field col s6">
                                 <input type="text" value="" class="validate" name="t_name" required>
-                                <label class="">Teachers name</label>
+                                <label class="">Teacher's name</label>
                             </div>
                             <div class="input-field col s6">
                                 <input type="text" value="" class="validate" required name="t_email">
-                                <label class="">Teacherse Email</label>
+                                <label class="">Teacher's Email</label>
                             </div>
                         </div>
                         <div class="row">
                             <div class="input-field col s6">
                                 <input type="number" value="" class="validate" required name="t_phone">
-                                <label class="">Teacherse Phone number</label>
+                                <label class="">Teacher's Phone number</label>
                             </div>
 
                         </div>
@@ -70,7 +70,7 @@ if(isset($resSMS)){
                             </div>
                             <div class="input-field col s6">
                                 <input type="text" value="" class="validate" name="t_subject">
-                                <label class="">Subjest</label>
+                                <label class="">Subject</label>
                             </div>
                         </div>
                         <div class="row">

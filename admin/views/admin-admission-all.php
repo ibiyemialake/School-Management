@@ -20,7 +20,9 @@ if(isset($deleteSMS)){
 
 
 <!--== Admission Request Details ==-->
-<h1>ALL ADMISSION REQUEST</h1>
+<h1> Admission Requests
+    
+</h1>
 <div class="sb2-2-3">
     <div class="row">
         <div class="col-md-12">

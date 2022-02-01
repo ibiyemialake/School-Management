@@ -5,7 +5,7 @@
 <?php include("admin-student-all.php") ;?>
 
 <!--== Course Details ==-->
-<?php //include("admin-all-courses.php") ;?>
+<?php include("admin-all-courses.php") ;?>
 
 <!--==Teachers Details ==-->
 <?php include("admin-teacher-all.php") ;?>

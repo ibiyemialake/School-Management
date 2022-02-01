@@ -17,14 +17,14 @@
             </a>
         </div>
         <!--== SEARCH ==-->
-        <div class="col-md-6 col-sm-6 mob-hide">
+        <!-- <div class="col-md-6 col-sm-6 mob-hide">
             <form class="app-search">
                 <input type="text" placeholder="Search..." class="form-control">
                 <a href="#"><i class="fa fa-search"></i></a>
             </form>
-        </div>
+        </div> -->
         <!--== NOTIFICATION ==-->
-        <div class="col-md-2 tab-hide">
+        <!-- <div class="col-md-2 tab-hide">
             <div class="top-not-cen">
                 <a class='waves-effect btn-noti' href="admin-all-enquiry.php" title="Get In Touuch Message"><i
                         class="fa fa-commenting-o" aria-hidden="true"></i><span><?php echo @$message; ?></span>
@@ -38,7 +38,7 @@
                         class="fa fa-tag" aria-hidden="true"></i><span>5</span>
                 </a>
             </div>
-        </div>
+        </div> -->
         <!--== MY ACCCOUNT ==-->
         <div class="col-md-2 col-sm-3 col-xs-6">
             <!-- Dropdown Trigger -->
@@ -48,9 +48,9 @@
 
             <!-- Dropdown Structure -->
             <ul id='top-menu' class='dropdown-content top-menu-sty'>
-                <li><a href="dashboard.php" class="waves-effect"><i class="fa fa-cogs" aria-hidden="true"></i>Admin
+                <!-- <li><a href="dashboard.php" class="waves-effect"><i class="fa fa-cogs" aria-hidden="true"></i>Admin
                         Setting</a>
-                </li>
+                </li> -->
                 <li class="divider"></li>
                 <li><a href="?adminLogout=logout" class="ho-dr-con-last waves-effect"><i class="fa fa-sign-in"
                             aria-hidden="true"></i> Logout</a>
