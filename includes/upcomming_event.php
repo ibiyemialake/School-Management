@@ -75,6 +75,17 @@ $awards = $crud->select($awardSQL);
                 </div>
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
+                        <li>
+                            <div class="ho-ev-date"><span>31</span><span>jan,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Cultural Day 2022.</h4>
+                                </a>
+                                <p>The richness of our culture would be on full display on this day</p>
+                                <span>9:00 am – 5:00 pm</span>
+                            </div>
+                        </li>
                         <?php while($job = mysqli_fetch_assoc($jobs)){ ?>
                         <li>
                             <div class="ho-ev-date">
