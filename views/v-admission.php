@@ -70,7 +70,7 @@ $classes = $crud->select($classSQL);
                         <div class="form-group">
                             <label class="control-label col-sm-3">Phone:</label>
                             <div class="col-sm-9">
-                                <input type="number" class="form-control" placeholder="Enter your phone number"
+                                <input type="text" class="form-control" placeholder="Enter your phone number"
                                     required name="req_admsn_phone">
                             </div>
                         </div>
