@@ -35,14 +35,16 @@ $classes = $crud->select($classSQL);
                <p>iii) For new students into intermediate classes (JSS2,SSS1, SSS2), transcript or previous result from former school should be presented.</p>
                <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p></p> 
             </div>
-
-             <div>
-                <h2>Request An Admission</h2>
-                <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
-                <p>We hope to have you here with us.</p>
-                <p class="help-line">Help Line <span>+0810 252 8676</span> </p> <span class="help-arrow pulse"><i
-                        class="fa fa-angle-right" aria-hidden="true"></i></span>
+            <div class="all-title quote-title qu-new">
+                <h3>The following documents must be submitted along with the registration form:</h3>
+               <p>i) Three (3) current passport photograph</p>
+               <p>ii) A copy of the child’s birth certificate</p>
+               <p>iii) The previous term’s report card from previous school.</p>
+               <p>iv) A sample of exercise books for English, Mathematics and Science from the previous school</p>
+               <p>v) Guarantors or Guardian letter.</p>
             </div>
+            <p class="help-line">Help Line <span>+0810 252 8676</span> </p> <span class="help-arrow pulse"><i
+                            class="fa fa-angle-right" aria-hidden="true"></i></span>
 
         </div>
        
@@ -50,6 +52,12 @@ $classes = $crud->select($classSQL);
         <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="n-form-com admiss-form">
                 <div class="col s12">
+                <div>
+                    <h2>Request An Admission</h2>
+                    <p>Request for admission with us. We would rightfully use the information provided to align your ward or child into the best of class. We at Anwarul Islam College offer the best and quality education.</p>
+                    <p>We hope to have you here with us.</p>
+                    
+                </div>
                     <form class="form-horizontal" action="" method="POST">
                         <div class="form-group">
                             <label class="control-label col-sm-3">Full Name:</label>
@@ -112,14 +120,7 @@ $classes = $crud->select($classSQL);
                 </div>
             </div>
         </div>
-       <div class="all-title quote-title qu-new">
-                <h3>The following documents must be submitted along with the registration form:</h3>
-               <p>i) Three (3) current passport photograph</p>
-               <p>ii) A copy of the child’s birth certificate</p>
-               <p>iii) The previous term’s report card from previous school.</p>
-               <p>iv) A sample of exercise books for English, Mathematics and Science from the previous school</p>
-               <p>v) Guarantors or Guardian letter.</p>
-            </div>
+       
     </div>
     <section></section>
 </section>
