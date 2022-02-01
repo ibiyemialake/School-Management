@@ -111,7 +111,7 @@ if(isset($_POST['add_fees'])){
                         <div class="row">
                             <div class=" col s12">
                                 <label class="">Total Fees</label>
-                                <input type="text" value="" class="validate" required name="total_fees" id="total-fees" readonly>
+                                <input type="text" value="" class="validate" required name="total_fees" id="total-fees" >
                             </div>
                         </div>
                         <div class="row">
