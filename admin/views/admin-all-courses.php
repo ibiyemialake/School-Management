@@ -111,7 +111,7 @@ elseif(isset($delTimeSMS)){
 </div>
 <!--== User Details ==-->
 <br><br><hr>
-<h1>Course Process And Fees</h1>
+<!-- <h1>Course Process And Fees</h1>
 
 <div class="sb2-2-3">
     <div class="row">
@@ -169,9 +169,9 @@ elseif(isset($delTimeSMS)){
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!--== User Details ==-->
-<br><br><hr>
+<!-- <br><br><hr>
 <h1>Course Time Table</h1>
 <div class="sb2-2-3">
     <div class="row">
@@ -226,4 +226,4 @@ elseif(isset($delTimeSMS)){
             </div>
         </div>
     </div>
-</div>
+</div> -->
