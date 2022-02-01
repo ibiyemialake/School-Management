@@ -24,7 +24,7 @@
                         <p>Take a look at some of our history at Anwarul and some awards won in past years. This gives an insight into what we stand for and how far we have come.</p>
                     </div>
                  </div>
-                <div class="s18-age-event l-info-pack-days">
+                <div class="tour_head1 udb-time-line days">
                                 <ul>
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <div class="sdb-cl-tim">
