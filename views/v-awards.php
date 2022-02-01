@@ -29,8 +29,8 @@
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <div class="sdb-cl-tim">
                                             <div class="sdb-cl-day">
-                                                <h5>First week</h5>
-                                                <span>07 February 2022</span>
+                                                <h5>Best Graduating Student in Oyo State</h5>
+                                                <span>08 April 2020</span>
                                             </div>
                                             <div class="sdb-cl-class">
                                                 <ul>
@@ -40,8 +40,8 @@
                                                             <span>10:15 am</span>
                                                         </div> -->
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>Commencement of Registration for fresh and returning students <span>Folorunsho Ladoke</span></h5>
-                                                            <span class="sdn-hall-na">School Hall 1</span>
+                                                            <h5>Science Student, WAEC 9As <span>Tijani Ajoke</span></h5>
+                                                            <!-- <span class="sdn-hall-na">School Hall 1</span> -->
                                                         </div>
                                                     </li>
                                                     <li>
@@ -50,8 +50,8 @@
                                                             <span>11:00 am</span>
                                                         </div> -->
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>Orientation for New Students <span>Gbenga Joseph, VP</span></h5>
-                                                            <span class="sdn-hall-na">School Hall 1 & 2</span>
+                                                            <h5>Commercial student, JAMB 350 <span>Adegboyega Felix</span></h5>
+                                                            <!-- <span class="sdn-hall-na">School Hall 1 & 2</span> -->
                                                         </div>
                                                     </li>
                                                     <!-- <li>
@@ -71,18 +71,18 @@
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <div class="sdb-cl-tim">
                                             <div class="sdb-cl-day">
-                                                <h5>13 weeks Teaching/Revision.</h5>
-                                                <span>14 February, 2022 - 06 May, 2022</span>
+                                                <h5>Achievement for Corporate Social Responsibility</h5>
+                                                <span>10 October, 2021.</span>
                                             </div>
                                             <div class="sdb-cl-class">
                                                 <ul>
                                                     <li>
                                                         <div class="sdb-cl-class-tim">
-                                                            <span>14 March - 18 March, 2022</span>
+                                                            <span>Building of Borehole for community</span>
                                                             <!-- <span>10:15 am</span> -->
                                                         </div>
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>First CA Test
+                                                            <h5>1 March - 18 September, 2021
                                                                 <!-- <span>John Smith</span> -->
                                                             </h5>
                                                             <!-- <span class="sdn-hall-na">Apj Hall 112</span> -->
@@ -90,11 +90,11 @@
                                                     </li>
                                                     <li>
                                                         <div class="sdb-cl-class-tim">
-                                                            <span>04 April, 2022 - 08 April, 2022.</span>
+                                                            <span>Football Field</span>
                                                             <!-- <span>11:00 am</span> -->
                                                         </div>
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>Second CA Test 
+                                                            <h5>13 April, 2021. 
                                                                 <!-- <span>Stephanie</span> -->
                                                             </h5>
                                                             <!-- <span class="sdn-hall-na">Apj Hall 112</span> -->
@@ -117,18 +117,18 @@
                                     <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <div class="sdb-cl-tim">
                                             <div class="sdb-cl-day">
-                                                <h5>Final Examination</h5>
-                                                <span>16 May, 2022 - 27 May, 2022.</span>
+                                                <h5>Biography of Anwarul School</h5>
+                                                <span>10th July, 1980.</span>
                                             </div>
                                             <div class="sdb-cl-class">
                                                 <ul>
                                                     <li>
                                                         <div class="sdb-cl-class-tim">
-                                                            <span>16 May, 2022 - 20 May, 2022</span>
+                                                            <span>Founders of the school</span>
                                                             <!-- <span>10:15 am</span> -->
                                                         </div>
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>Junior Secondary Examinations.
+                                                            <h5>Pa Elegushi Akeredolu.
                                                                 <!-- <span>John Smith<span> -->
                                                             </h5>
                                                             <!-- <span class="sdn-hall-na">Apj Hall 112</span> -->
@@ -136,11 +136,11 @@
                                                     </li>
                                                     <li>
                                                         <div class="sdb-cl-class-tim">
-                                                            <span>23 May, 2022 - 27 May, 2022</span>
+                                                            <span>Timeline of schools development</span>
                                                             <!-- <span>11:00 am</span> -->
                                                         </div>
                                                         <div class="sdb-cl-class-name">
-                                                            <h5>Senior Secondary Examinations.         
+                                                            <h5>Progress report of school.        
                                                                 <!-- <span>Stephanie</span> -->
                                                         </h5>
                                                             <!-- <span class="sdn-hall-na">Apj Hall 112</span> -->
@@ -160,11 +160,11 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    <!-- <li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
                                         <h4><span>Holiday: </span> Childrens Day </h4>
                                         <p>Childrens Day: National Holiday.</p>
                                         <p>School Vacation: 30th May, 2022.</p>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             
                     <!-- <ul>
