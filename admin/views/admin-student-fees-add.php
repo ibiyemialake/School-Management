@@ -96,7 +96,7 @@ if(isset($_POST['add_fees'])){
                                 </select>
                             </div>
                         </div>
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class=" col s12">
                                 <label class="">Due fees</label>
                                 <input type="text" value="" class="validate" required name="due_fees" id="due-balance" readonly>
@@ -107,11 +107,12 @@ if(isset($_POST['add_fees'])){
                                 <label class="">Current fees</label>
                                 <input type="text" value="" class="validate" required name="curent_fees" id="current-fees" readonly>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="row">
                             <div class=" col s12">
                                 <label class="">Total Fees</label>
-                                <input type="text" value="" class="validate" required name="total_fees" id="total-fees" >
+                                <input type="text" value="" class="validate" required name="total_fees" id="total-fees"  >
+                                
                             </div>
                         </div>
                         <div class="row">
