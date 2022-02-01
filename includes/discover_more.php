@@ -44,7 +44,7 @@
                         <div class="ed-course-in">
                             <a class="course-overlay" href="db-time-line.php">
                                 <img src="assets/images/h-adm.jpg" alt="">
-                                <span>Exam Time Line</span>
+                                <span>Session Time Line</span>
                             </a>
                         </div>
                     </div>

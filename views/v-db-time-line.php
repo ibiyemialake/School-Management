@@ -31,11 +31,11 @@
                                 <h4>Folorunsho Ladoke</h4>
                             </li>
                             <li>Principal</li>
-                            <!-- <li><a href="#!"><i class="fa fa-facebook"></i> Facebook: my sample</a></li>
+                             <li><a href="#!"><i class="fa fa-facebook"></i> Facebook: my sample</a></li>
                             <li><a href="#!"><i class="fa fa-google-plus"></i> Google: my sample</a></li>
                             <li><a href="#!"><i class="fa fa-twitter"></i> Twitter: my sample</a></li> -->
                         </ul>
-                    </div> -->
+                    </div> 
                 </div>
                 <div class="col-md-9">
                     <div class="udb">
