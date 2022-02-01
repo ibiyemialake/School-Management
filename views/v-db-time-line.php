@@ -22,9 +22,9 @@
         <div class="stu-db">
             <div class="container pg-inn">
                 <div class="col-md-3">
-                    <div class="pro-user">
+                    <!-- <div class="pro-user">
                         <img src="upload/principal.jpg" alt="user">
-                    </div>
+                    </div> -->
                     <!-- <div class="pro-user-bio">
                         <ul>
                             <li>
@@ -33,9 +33,9 @@
                             <li>Principal</li>
                              <li><a href="#!"><i class="fa fa-facebook"></i> Facebook: my sample</a></li>
                             <li><a href="#!"><i class="fa fa-google-plus"></i> Google: my sample</a></li>
-                            <li><a href="#!"><i class="fa fa-twitter"></i> Twitter: my sample</a></li> -->
+                            <li><a href="#!"><i class="fa fa-twitter"></i> Twitter: my sample</a></li> 
                         </ul>
-                    </div> 
+                    </div> -->
                 </div>
                 <div class="col-md-9">
                     <div class="udb">
