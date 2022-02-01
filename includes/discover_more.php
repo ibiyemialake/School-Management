@@ -19,7 +19,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="admission.php">
-                                <img src="assets/images/admission.png" alt="">
+                                <img src="assets/images/admission.jpg" alt="">
                                 <span>Admission</span>
                             </a>
                         </div>
@@ -27,7 +27,7 @@
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="ed-course-in">
                             <a class="course-overlay" href="dashboard.php">
-                                <img src="assets/images/stuprofile.png" alt="">
+                                <img src="assets/images/stuprofile.jpg" alt="">
                                 <span>Students profile</span>
                             </a>
                         </div>
