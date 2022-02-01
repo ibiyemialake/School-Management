@@ -243,10 +243,10 @@ $subjects = $crud->select($subjectSQL);
             </thead>
             <tbody>
                 <tr>
-                    <td><?php echo $totalfees ; ?></td>
+                    <td><?php $totalfees = $duefeees + $paidfees;
+                     echo $totalfees ; ?></td>
                     <td><?php echo $paidfees ; ?></td>
-                    <td><?php $duefeees =  $totalfees - $paidfees;
-                        echo $duefeees ; ?></td>
+                    <td><?php echo $duefeees ; ?></td>
                 </tr>
             </tbody>
 
