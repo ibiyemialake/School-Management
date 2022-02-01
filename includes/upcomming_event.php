@@ -132,7 +132,7 @@
                                 <span>Location: <?//php //echo $job['job_location']; ?></span>
                             </div>
                         </li>
-                        <?php } ?> -->
+                        <?//php } ?> -->
                     </ul>
                 </div>
             </div>
