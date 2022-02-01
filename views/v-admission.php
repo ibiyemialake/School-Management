@@ -35,8 +35,11 @@ $classes = $crud->select($classSQL);
                <p>iii) For new students into intermediate classes (JSS2,SSS1, SSS2), transcript or previous result from former school should be presented.</p>
                <p>iv) Entrance Examination and Interview admission is benched on 50% pass.</p></p> 
             </div>
+            <div></div>
+            <div></div>
+            <div></div>
             <div class="all-title quote-title qu-new">
-                <h3>The following documents must be submitted along with the registration form:</h3>
+                <p>The following documents must be submitted along with the registration form:</p>
                <p>i) Three (3) current passport photograph</p>
                <p>ii) A copy of the child’s birth certificate</p>
                <p>iii) The previous term’s report card from previous school.</p>
@@ -122,6 +125,6 @@ $classes = $crud->select($classSQL);
         </div>
        
     </div>
-    <section></section>
+    <!-- <section></section> -->
 </section>
 <!--SECTION END-->
