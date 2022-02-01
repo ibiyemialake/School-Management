@@ -1,13 +1,13 @@
- <?php
- $awardSQL = "SELECT * FROM awards";
- $awards = $crud->select($awardSQL);
+ <!-- <?php
+ // $awardSQL = "SELECT * FROM awards";
+ // $awards = $crud->select($awardSQL);
 
 
 
 
 
 
-?>
+?> -->
 
 
 
