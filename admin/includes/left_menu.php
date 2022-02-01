@@ -44,7 +44,7 @@
                          </ul>
                      </div>
                  </li>
-                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
+                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Classes</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -54,7 +54,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li> -->
+                 </li>
                  <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-book"
                              aria-hidden="true"></i>Class Routine</a>
                      <div class="collapsible-body left-sub-menu">
@@ -216,7 +216,7 @@
                         </li> -->
                  <!-- <li><a href="admin-quick-link.html"><i class="fa fa-external-link-square" aria-hidden="true"></i> Slider quick link</a>
                         </li> -->
-                 <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
+                 <!-- <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Session</a>
                      <div class="collapsible-body left-sub-menu">
                          <ul>
@@ -226,7 +226,7 @@
                              </li>
                          </ul>
                      </div>
-                 </li>
+                 </li> -->
                  <li><a href="javascript:void(0)" class="collapsible-header"><i class="fa fa-calendar"
                              aria-hidden="true"></i> Grades</a>
                      <div class="collapsible-body left-sub-menu">
