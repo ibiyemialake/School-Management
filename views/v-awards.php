@@ -1,4 +1,4 @@
- <!-- <?php
+ <!-- <?//php
  // $awardSQL = "SELECT * FROM awards";
  // $awards = $crud->select($awardSQL);
 
@@ -208,13 +208,13 @@
                                             <i class="fa fa-angle-up"></i>
                                         </a>
 
-                                        <?php } ?>
-                                    <?php } ?>
+                                        <?//php } ?>
+                                    <?//php } ?>
 
                                 </div>
                             </div>
                         </li>
-                        <?php } ?>
+                        <?//php } ?>
 
 
 
