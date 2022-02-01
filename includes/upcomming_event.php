@@ -76,14 +76,47 @@ $awards = $crud->select($awardSQL);
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
                         <li>
-                            <div class="ho-ev-date"><span>31</span><span>jan,2022</span>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="events.html">
-                                    <h4>Cultural Day 2022.</h4>
+                                    <h4>Enrollment Criteria.</h4>
                                 </a>
-                                <p>The richness of our culture would be on full display on this day</p>
-                                <span>9:00 am – 5:00 pm</span>
+                                <p>All information needed are stated in the Admissions Page</p>
+                                <span>February, 2022</span>
+                            </div>
+                        </li>
+                         <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Parents and Children/Ward</h4>
+                                </a>
+                                <p>Parents be advised to help your ward/guardian adequatly prepare for the exams this month.</p>
+                                <span>February, 2022</span>
+                            </div>
+                        </li>
+                         <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Important Documents.</h4>
+                                </a>
+                                <p>Check Admission guidelines to be aware of what is required of your ward/children</p>
+                                <span>February, 2022</span>
+                            </div>
+                        </li>
+                         <li>
+                            <div class="ho-ev-date"><span>1</span><span>Feb,2022</span>
+                            </div>
+                            <div class="ho-ev-link">
+                                <a href="events.html">
+                                    <h4>Contact for Enquiries.</h4>
+                                </a>
+                                <p>Reach us via the information in Contact Page</p>
+                                <span>February, 2022</span>
                             </div>
                         </li>
                         <?php while($job = mysqli_fetch_assoc($jobs)){ ?>
