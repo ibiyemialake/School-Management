@@ -11,6 +11,7 @@
 
 
 ?> -->
+
 <section>
     <div class="container com-sp pad-bot-0">
         <div class="row">
@@ -33,20 +34,20 @@
                 </div>
                 <div class="ho-event ho-event-mob-bot-sp">
                     <ul>
-                        <?php while($event = mysqli_fetch_assoc($events)){ ?>
+                        <!-- <?php //while($event = mysqli_fetch_assoc($events)){ ?>
                         <li>
                             <div class="ho-ev-date">
-                                <span><?php echo $formating->GET_DATE($event['date']); ?></span><span><?php echo $formating->GET_MONTH_YEAR($event['date']); ?></span>
+                                <span><?php //echo $formating->GET_DATE($event['date']); ?></span><span><?php //echo $formating->GET_MONTH_YEAR($event['date']); ?></span>
                             </div>
                             <div class="ho-ev-link">
                                 <a href="#">
-                                    <h4><?php echo $event['name']; ?></h4>
+                                    <h4><?php //echo $event['name']; ?></h4>
                                 </a>
-                                <p><?php echo $event['descriptions']; ?></p>
-                                <span><?php echo $event['time']; ?></span>
+                                <p><?php //echo $event['descriptions']; ?></p>
+                                <span><?php //echo $event['time']; ?></span>
                             </div>
                         </li>
-                        <?php } ?>
+                        <?//php } ?> -->
                         <li>
                             <div class="ho-ev-date"><span>31</span><span>jan,2022</span>
                             </div>
