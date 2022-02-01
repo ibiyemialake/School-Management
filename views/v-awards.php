@@ -166,7 +166,7 @@
                                         <p>School Vacation: 30th May, 2022.</p>
                                     </li>
                                 </ul>
-                            </div>
+                            
                     <!-- <ul>
 
                         <?php //while($award = mysqli_fetch_assoc($awards)){ ?>
@@ -223,6 +223,7 @@
                 <div class="ed-about-sec1">
                     <div class="col-md-6"></div>
                     <div class="col-md-6"></div>
+                </div>
                 </div>
             </div>
         </div>
