@@ -43,29 +43,29 @@ elseif(isset($delTimeSMS)){
 ?>
 
 <!--== User Details ==-->
-<br><h2>All Course Details</h2><hr>
+<br><h2>All Subject Details</h2><hr>
 <?php if(isset($delSMS)){ echo $delSMS; } ?>
 <div class="sb2-2-3">
     <div class="row">
         <div class="col-md-12">
             <div class="box-inn-sp">
                 <div class="inn-title">
-                    <h4>Course Details</h4>
+                    <h4>Subject Details</h4>
                 </div>
                 <div class="tab-inn">
                     <div class="table-responsive table-desi">
                         <table class="table table-hover">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
-                                    <th>Course Name</th>
+                                    <!-- <th>ID</th> -->
+                                    <th>Subject Name</th>
                                     <th>Descrition</th>
                                     <th>Categories</th>
-                                    <th>Seats</th>
-                                    <th>Start From</th>
-                                    <th>Contact Person</th>
-                                    <th>Contact</th>
-                                    <th>Contact Email</th>
+                                    <!-- <th>Seats</th> -->
+                                    <!-- <th>Start From</th> -->
+                                    <!-- <th>Contact Person</th> -->
+                                    <!-- <th>Contact</th>
+                                    <th>Contact Email</th> -->
                                     <th>Image</th>
                                     <th>Status</th>
 
@@ -75,15 +75,15 @@ elseif(isset($delTimeSMS)){
                             <tbody> 
                                 <?php while($course = mysqli_fetch_assoc($courses)){ ?>
                                 <tr>
-                                    <td><?php echo $course['course_id'] ?></td>
+                                    <!-- <td><?php echo $course['course_id'] ?></td> -->
                                     <td><?php echo $course['course_name'] ?></td>
                                     <td><?php echo $course['course_description'] ?></td>
                                     <td><?php echo $course['course_cat'] ?></td>
-                                    <td><?php echo $course['course_seat'] ?></td>
-                                    <td><?php echo $course['course_start_date'] ?></td>
-                                    <td><?php echo $course['course_contact_person_name'] ?></td>
-                                    <td><?php echo $course['course_contact_person_phone'] ?></td>
-                                    <td><?php echo $course['course_contact_email'] ?></td>
+                                    <!-- <td><?php echo $course['course_seat'] ?></td> -->
+                                    <!-- <td><?php echo $course['course_start_date'] ?></td> -->
+                                    <!-- <td><?php echo $course['course_contact_person_name'] ?></td> -->
+                                    <!-- <td><?php echo $course['course_contact_person_phone'] ?></td> -->
+                                    <!-- <td><?php echo $course['course_contact_email'] ?></td> -->
                                     <td>
                                         <img src="upload/<?php echo $course['course_image'] ?>" alt="" style="width: 100px;">
                                     </td>
