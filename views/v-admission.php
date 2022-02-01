@@ -24,7 +24,7 @@ $classes = $crud->select($classSQL);
     <div class="container">
          <div class="col-md-6 col-sm-12 col-xs-12">
             <div class="all-title quote-title qu-new">
-                <h2>Admission Policy</h2>
+                <h2>Admission Policies</h2>
                 <p>These are guidelines to the requirements for securing admission into Temple School. We hope to have you here with us.</p>
                <p><b>Requirements:</b></p>
                <p>1) <b>Age:</b> All wards or children entering into the Junior Secondary School 1 must have attained the age of 10+ years as at time of resumption and for Senior Secondary School 1 and upward must be 13+ years.</p>
